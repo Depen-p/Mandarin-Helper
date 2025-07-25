@@ -46,6 +46,43 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   };
 
+  // Load HSK 1 from JSON file
+  async function loadPresetHSK1() {
+    try {
+      const response = await fetch("../data/hsk1_allset.json");
+      const data = await response.json();
+
+      flashcards.pinyin[1] = data.map(item => ({
+        front: `${item.hanzi} (${item.pinyin})`,
+        back: item.english
+      }));
+
+      currentCategory = 1;
+      currentIndex = 0;
+      updateCard();
+    } catch (error) {
+      console.error("❌ Failed to load HSK 1 preset:", error);
+    }
+  }
+
+  async function loadPresetHSK1_Hanzi() {
+    try {
+      const response = await fetch("../data/hsk1_allset.json");
+      const data = await response.json();
+  
+      flashcards.hanzi[1] = data.map(item => ({
+        front: item.hanzi,
+        back: `${item.pinyin} — ${item.english}`
+      }));
+  
+      currentCategory = 1;
+      currentIndex = 0;
+      updateCard();
+    } catch (error) {
+      console.error("❌ Failed to load HSK 1 Hanzi preset:", error);
+    }
+  }
+  
   // Initial state
   let currentCategory = 1;
   let currentType = "pinyin"; // 'pinyin' or 'hanzi'
@@ -110,8 +147,16 @@ window.addEventListener("DOMContentLoaded", () => {
         btn.addEventListener("click", () => {
           currentCategory = parseInt(btn.dataset.level);
           currentIndex = 0;
-          updateCard();
           presetGrid.classList.add("hidden");
+
+          // If HSK 1 and pinyin type, load from JSON
+          if (currentType === "pinyin" && currentCategory === 1) {
+            loadPresetHSK1();
+          } else if (currentType === "hanzi" && currentCategory === 1) {
+            loadPresetHSK1_Hanzi();
+          } else {
+            updateCard();
+          }
         });
         presetGrid.appendChild(btn);
       }
