@@ -1,7 +1,7 @@
 window.addEventListener("DOMContentLoaded", () => {
   // Load sidebar
   const depth = window.location.pathname.split("/").length - 2;
-  const path = `${"../".repeat(depth)}components/sidebar.html`;
+  const path = `${"../".repeat(depth)}sidebar.html`;
 
   fetch(path)
     .then(res => res.text())
