@@ -24,50 +24,32 @@ window.addEventListener("DOMContentLoaded", () => {
 
   // Sample flashcard data for both pinyin and hanzi presets
   const flashcards = {
-    pinyin: {
-      1: [
-        { front: "nǐ hǎo", back: "Hello" },
-        { front: "xièxie", back: "Thank you" }
-      ],
-      2: [
-        { front: "zàijiàn", back: "Goodbye" },
-        { front: "qǐng wèn", back: "May I ask" }
-      ]
-    },
-    hanzi: {
-      1: [
-        { front: "你好", back: "Hello" },
-        { front: "谢谢", back: "Thank you" }
-      ],
-      2: [
-        { front: "再见", back: "Goodbye" },
-        { front: "请问", back: "May I ask" }
-      ]
-    }
+    pinyin: {},
+    hanzi: {}
   };
 
   // Load HSK 1 from JSON file
   async function loadPresetHSK1() {
     try {
-      const response = await fetch("../data/hsk1_allset.json");
+      const response = await fetch("../data/hsk1_new.json");
       const data = await response.json();
-
+  
       flashcards.pinyin[1] = data.map(item => ({
-        front: `${item.hanzi} (${item.pinyin})`,
-        back: item.english
+        front: item.pinyin,
+        back: `${item.hanzi}\n${item.english}`
       }));
-
+  
       currentCategory = 1;
       currentIndex = 0;
       updateCard();
     } catch (error) {
-      console.error("❌ Failed to load HSK 1 preset:", error);
+      console.error("❌ Failed to load HSK 1 Pinyin preset:", error);
     }
   }
 
   async function loadPresetHSK1_Hanzi() {
     try {
-      const response = await fetch("../data/hsk1_allset.json");
+      const response = await fetch("../data/hsk1_new.json");
       const data = await response.json();
   
       flashcards.hanzi[1] = data.map(item => ({
@@ -101,25 +83,70 @@ window.addEventListener("DOMContentLoaded", () => {
     }
 
     const card = currentSet[currentIndex];
-    frontEl.textContent = card.front;
-    backEl.textContent = card.back;
+    frontEl.innerHTML = `
+  <div style="font-size: 2rem; font-weight: bold; text-align: center;">
+    ${card.front}
+  </div>
+`;
+    if (currentType === "pinyin") {
+      const [hanzi, english] = card.back.split("\n");
+      backEl.innerHTML = `
+        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+          <div style="font-size: 3rem; font-weight: bold; margin-bottom: 0.5rem;">${hanzi}</div>
+          <div style="font-size: 1.2rem;">${english}</div>
+        </div>
+      `;
+    } else if (currentType === "hanzi") {
+      const [pinyin, english] = card.back.split(" — ");
+      backEl.innerHTML = `
+        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+          <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">${pinyin}</div>
+          <div style="font-size: 1.2rem;">${english}</div>
+        </div>
+      `;
+    } 
     cardEl.classList.remove("flipped");
   }
 
   // Prev / Next buttons
   document.getElementById("nextCard").addEventListener("click", () => {
+    cardEl.classList.remove("flipped");
     const cards = flashcards[currentType]?.[currentCategory];
     if (!cards) return;
-    currentIndex = (currentIndex + 1) % cards.length;
-    updateCard();
+    setTimeout(() => {
+      if (randomize) {
+        let newIndex;
+        do {
+          newIndex = Math.floor(Math.random() * cards.length);
+        } while (newIndex === currentIndex && cards.length > 1);
+        currentIndex = newIndex;
+      } else {
+        currentIndex = (currentIndex + 1) % cards.length;
+      }
+      updateCard();
+    }, 150); // match flip animation
   });
+  
 
+  
   document.getElementById("prevCard").addEventListener("click", () => {
+    cardEl.classList.remove("flipped");
     const cards = flashcards[currentType]?.[currentCategory];
     if (!cards) return;
-    currentIndex = (currentIndex - 1 + cards.length) % cards.length;
-    updateCard();
+    setTimeout(() => {
+      if (randomize) {
+        let newIndex;
+        do {
+          newIndex = Math.floor(Math.random() * cards.length);
+        } while (newIndex === currentIndex && cards.length > 1);
+        currentIndex = newIndex;
+      } else {
+        currentIndex = (currentIndex - 1 + cards.length) % cards.length;
+      }
+      updateCard();
+    }, 150);
   });
+  
 
   // Flip card
   cardEl.addEventListener("click", () => {
@@ -169,6 +196,12 @@ window.addEventListener("DOMContentLoaded", () => {
 
   presetPinyinBtn?.addEventListener("click", () => togglePresetGrid("pinyin"));
   presetHanziBtn?.addEventListener("click", () => togglePresetGrid("hanzi"));
+
+  let randomize = false;
+  const randomToggle = document.getElementById("randomToggle");
+  randomToggle?.addEventListener("change", () => {
+    randomize = randomToggle.checked;
+  });
 
   updateCard(); // initialize
 });
