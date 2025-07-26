@@ -1,5 +1,6 @@
 window.addEventListener("DOMContentLoaded", () => {
   // Load sidebar
+  fetch('/Mandarin-Helper/sidebar.html')
   const depth = window.location.pathname.split("/").length - 2;
   const path = `${"../".repeat(depth)}sidebar.html`;
 
