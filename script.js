@@ -3,7 +3,6 @@ window.addEventListener("DOMContentLoaded", () => {
   const isGithubPages = hostname.includes("github.io");
   const repoName = "Mandarin-Helper";
   
-  // Detect base path based on host and pathname
   const path = isGithubPages
     ? `/${repoName}/sidebar.html`
     : window.location.pathname.includes("/flashcard/")
@@ -13,12 +12,15 @@ window.addEventListener("DOMContentLoaded", () => {
   fetch(path)
     .then(res => res.text())
     .then(data => {
-      document.getElementById("sidebar-placeholder").innerHTML = data;
+      const sidebarPlaceholder = document.getElementById("sidebar-placeholder");
+      if (sidebarPlaceholder) {
+        sidebarPlaceholder.innerHTML = data;
+      }
 
       const sidebar = document.getElementById("sidebar");
       const toggleBtn = document.getElementById("sidebarToggle");
 
-      if (toggleBtn) {
+      if (toggleBtn && sidebar) {
         toggleBtn.addEventListener("click", () => {
           sidebar.classList.toggle("collapsed");
           const layout = document.querySelector(".layout");
@@ -28,13 +30,12 @@ window.addEventListener("DOMContentLoaded", () => {
         });
       }
     });
-  // Sample flashcard data for both pinyin and hanzi presets
+
   const flashcards = {
     pinyin: {},
     hanzi: {}
   };
 
-  // Load HSK 1 from JSON file
   async function loadPresetHSK1() {
     try {
       const response = await fetch("../data/hsk1_new.json");
@@ -70,17 +71,19 @@ window.addEventListener("DOMContentLoaded", () => {
       console.error("❌ Failed to load HSK 1 Hanzi preset:", error);
     }
   }
-  
-  // Initial state
+
   let currentCategory = 1;
-  let currentType = "pinyin"; // 'pinyin' or 'hanzi'
+  let currentType = "pinyin";
   let currentIndex = 0;
+  let randomize = false;
 
   const frontEl = document.getElementById("flashcard-front");
   const backEl = document.getElementById("flashcard-back");
   const cardEl = document.getElementById("flashcard");
 
   function updateCard() {
+    if (!frontEl || !backEl || !cardEl) return;
+
     const currentSet = flashcards[currentType]?.[currentCategory];
     if (!currentSet || currentSet.length === 0) {
       frontEl.textContent = "No cards available";
@@ -89,77 +92,76 @@ window.addEventListener("DOMContentLoaded", () => {
     }
 
     const card = currentSet[currentIndex];
-    frontEl.innerHTML = `
-  <div style="font-size: 2rem; font-weight: bold; text-align: center;">
-    ${card.front}
-  </div>
-`;
+    frontEl.innerHTML = `<div style="font-size: 2rem; font-weight: bold; text-align: center;">${card.front}</div>`;
+
     if (currentType === "pinyin") {
       const [hanzi, english] = card.back.split("\n");
       backEl.innerHTML = `
         <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
           <div style="font-size: 3rem; font-weight: bold; margin-bottom: 0.5rem;">${hanzi}</div>
           <div style="font-size: 1.2rem;">${english}</div>
-        </div>
-      `;
+        </div>`;
     } else if (currentType === "hanzi") {
       const [pinyin, english] = card.back.split(" — ");
       backEl.innerHTML = `
         <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
           <div style="font-size: 2rem; font-weight: bold; margin-bottom: 0.5rem;">${pinyin}</div>
           <div style="font-size: 1.2rem;">${english}</div>
-        </div>
-      `;
-    } 
+        </div>`;
+    }
+
     cardEl.classList.remove("flipped");
   }
 
-  // Prev / Next buttons
-  document.getElementById("nextCard").addEventListener("click", () => {
-    cardEl.classList.remove("flipped");
-    const cards = flashcards[currentType]?.[currentCategory];
-    if (!cards) return;
-    setTimeout(() => {
-      if (randomize) {
-        let newIndex;
-        do {
-          newIndex = Math.floor(Math.random() * cards.length);
-        } while (newIndex === currentIndex && cards.length > 1);
-        currentIndex = newIndex;
-      } else {
-        currentIndex = (currentIndex + 1) % cards.length;
-      }
-      updateCard();
-    }, 150); // match flip animation
-  });
-  
+  const nextBtn = document.getElementById("nextCard");
+  const prevBtn = document.getElementById("prevCard");
 
-  
-  document.getElementById("prevCard").addEventListener("click", () => {
-    cardEl.classList.remove("flipped");
-    const cards = flashcards[currentType]?.[currentCategory];
-    if (!cards) return;
-    setTimeout(() => {
-      if (randomize) {
-        let newIndex;
-        do {
-          newIndex = Math.floor(Math.random() * cards.length);
-        } while (newIndex === currentIndex && cards.length > 1);
-        currentIndex = newIndex;
-      } else {
-        currentIndex = (currentIndex - 1 + cards.length) % cards.length;
-      }
-      updateCard();
-    }, 150);
-  });
-  
+  if (nextBtn && cardEl) {
+    nextBtn.addEventListener("click", () => {
+      cardEl.classList.remove("flipped");
+      const cards = flashcards[currentType]?.[currentCategory];
+      if (!cards) return;
+      setTimeout(() => {
+        if (randomize) {
+          let newIndex;
+          do {
+            newIndex = Math.floor(Math.random() * cards.length);
+          } while (newIndex === currentIndex && cards.length > 1);
+          currentIndex = newIndex;
+        } else {
+          currentIndex = (currentIndex + 1) % cards.length;
+        }
+        updateCard();
+      }, 150);
+    });
+  }
 
-  // Flip card
-  cardEl.addEventListener("click", () => {
-    cardEl.classList.toggle("flipped");
-  });
+  if (prevBtn && cardEl) {
+    prevBtn.addEventListener("click", () => {
+      cardEl.classList.remove("flipped");
+      const cards = flashcards[currentType]?.[currentCategory];
+      if (!cards) return;
+      setTimeout(() => {
+        if (randomize) {
+          let newIndex;
+          do {
+            newIndex = Math.floor(Math.random() * cards.length);
+          } while (newIndex === currentIndex && cards.length > 1);
+          currentIndex = newIndex;
+        } else {
+          currentIndex = (currentIndex - 1 + cards.length) % cards.length;
+        }
+        updateCard();
+      }, 150);
+    });
+  }
 
-  // Preset toggle logic
+  if (cardEl) {
+    cardEl.addEventListener("click", () => {
+      cardEl.classList.toggle("flipped");
+    });
+  }
+
   const presetGrid = document.getElementById("presetGrid");
   const presetPinyinBtn = document.getElementById("presetPinyinBtn");
   const presetHanziBtn = document.getElementById("presetHanziBtn");
@@ -167,8 +169,10 @@ window.addEventListener("DOMContentLoaded", () => {
   let activePresetType = null;
 
   function togglePresetGrid(type) {
+    if (!presetGrid) return;
+
     if (presetGrid.classList.contains("hidden") || activePresetType !== type) {
-      presetGrid.innerHTML = ""; // clear
+      presetGrid.innerHTML = "";
       activePresetType = type;
       currentType = type;
 
@@ -182,7 +186,6 @@ window.addEventListener("DOMContentLoaded", () => {
           currentIndex = 0;
           presetGrid.classList.add("hidden");
 
-          // If HSK 1 and pinyin type, load from JSON
           if (currentType === "pinyin" && currentCategory === 1) {
             loadPresetHSK1();
           } else if (currentType === "hanzi" && currentCategory === 1) {
@@ -200,14 +203,19 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  presetPinyinBtn?.addEventListener("click", () => togglePresetGrid("pinyin"));
-  presetHanziBtn?.addEventListener("click", () => togglePresetGrid("hanzi"));
+  if (presetPinyinBtn) {
+    presetPinyinBtn.addEventListener("click", () => togglePresetGrid("pinyin"));
+  }
+  if (presetHanziBtn) {
+    presetHanziBtn.addEventListener("click", () => togglePresetGrid("hanzi"));
+  }
 
-  let randomize = false;
   const randomToggle = document.getElementById("randomToggle");
-  randomToggle?.addEventListener("change", () => {
-    randomize = randomToggle.checked;
-  });
+  if (randomToggle) {
+    randomToggle.addEventListener("change", () => {
+      randomize = randomToggle.checked;
+    });
+  }
 
   updateCard(); // initialize
 });
