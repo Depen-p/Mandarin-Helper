@@ -1,7 +1,14 @@
 window.addEventListener("DOMContentLoaded", () => {
-  const isGithub = window.location.hostname.includes("github.io");
-  const basePath = isGithub ? "/Mandarin-Helper/" : "../";
-  const path = basePath + "sidebar.html";
+  const hostname = window.location.hostname;
+  const isGithubPages = hostname.includes("github.io");
+  const repoName = "Mandarin-Helper";
+  
+  // Detect base path based on host and pathname
+  const path = isGithubPages
+    ? `/${repoName}/sidebar.html`
+    : window.location.pathname.includes("/flashcard/")
+      ? "../sidebar.html"
+      : "sidebar.html";
   
   fetch(path)
     .then(res => res.text())
@@ -21,7 +28,6 @@ window.addEventListener("DOMContentLoaded", () => {
         });
       }
     });
-
   // Sample flashcard data for both pinyin and hanzi presets
   const flashcards = {
     pinyin: {},
