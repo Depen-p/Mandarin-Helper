@@ -1,9 +1,8 @@
 window.addEventListener("DOMContentLoaded", () => {
-  // Load sidebar
-  fetch('/Mandarin-Helper/sidebar.html')
-  const depth = window.location.pathname.split("/").length - 2;
-  const path = `${"../".repeat(depth)}sidebar.html`;
-
+  const isGithub = window.location.hostname.includes("github.io");
+  const basePath = isGithub ? "/Mandarin-Helper/" : "../";
+  const path = basePath + "sidebar.html";
+  
   fetch(path)
     .then(res => res.text())
     .then(data => {
