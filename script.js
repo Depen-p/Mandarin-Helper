@@ -244,6 +244,4 @@ window.addEventListener("DOMContentLoaded", () => {
       randomize = randomToggle.checked;
     });
   }
-
-  updateCard(); // initialize
 });
