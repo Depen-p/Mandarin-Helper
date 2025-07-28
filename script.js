@@ -2,6 +2,7 @@ window.addEventListener("DOMContentLoaded", () => {
   const hostname = window.location.hostname;
   const isGithubPages = hostname.includes("github.io");
   const repoName = "Mandarin-Helper";
+  let seenIndexes = new Set();
   
   const path = isGithubPages
     ? `/${repoName}/sidebar.html`
@@ -48,6 +49,7 @@ window.addEventListener("DOMContentLoaded", () => {
   
       currentCategory = 1;
       currentIndex = 0;
+      seenIndexes.clear();
       updateCard();
     } catch (error) {
       console.error("❌ Failed to load HSK 1 Pinyin preset:", error);
@@ -66,6 +68,7 @@ window.addEventListener("DOMContentLoaded", () => {
   
       currentCategory = 1;
       currentIndex = 0;
+      seenIndexes.clear();
       updateCard();
     } catch (error) {
       console.error("❌ Failed to load HSK 1 Hanzi preset:", error);
@@ -92,6 +95,7 @@ window.addEventListener("DOMContentLoaded", () => {
     }
 
     const card = currentSet[currentIndex];
+    seenIndexes.add(currentIndex);
     frontEl.innerHTML = `<div style="font-size: 2rem; font-weight: bold; text-align: center;">${card.front}</div>`;
 
     if (currentType === "pinyin") {
@@ -111,8 +115,24 @@ window.addEventListener("DOMContentLoaded", () => {
     }
 
     cardEl.classList.remove("flipped");
+    updateRemainingCount();
   }
 
+  function updateRemainingCount() {
+    const cards = flashcards[currentType]?.[currentCategory];
+    if (!cards) return;
+  
+    const remaining = cards.length - seenIndexes.size;
+    const countText = remaining > 0 
+      ? `Remaining cards: ${remaining}` 
+      : `🎉 All flashcards completed!`;
+  
+    const remainingEl = document.getElementById("remaining-count");
+    if (remainingEl) {
+      remainingEl.textContent = countText;
+    }
+  }  
+  
   const nextBtn = document.getElementById("nextCard");
   const prevBtn = document.getElementById("prevCard");
 
@@ -123,12 +143,20 @@ window.addEventListener("DOMContentLoaded", () => {
       if (!cards) return;
       setTimeout(() => {
         if (randomize) {
-          let newIndex;
-          do {
-            newIndex = Math.floor(Math.random() * cards.length);
-          } while (newIndex === currentIndex && cards.length > 1);
-          currentIndex = newIndex;
+          const cards = flashcards[currentType]?.[currentCategory];
+          const unseenIndexes = cards
+            .map((_, i) => i)
+            .filter(i => !seenIndexes.has(i));
+        
+          if (unseenIndexes.length === 0) {
+            updateCard();
+            return;
+          }
+        
+          const randomIdx = Math.floor(Math.random() * unseenIndexes.length);
+          currentIndex = unseenIndexes[randomIdx];
         } else {
+          const cards = flashcards[currentType]?.[currentCategory];
           currentIndex = (currentIndex + 1) % cards.length;
         }
         updateCard();
