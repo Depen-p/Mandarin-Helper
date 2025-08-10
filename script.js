@@ -37,6 +37,16 @@ window.addEventListener("DOMContentLoaded", () => {
     hanzi: {}
   };
 
+  function getDataPath(level) {
+    // Detect if running locally (file://) or on GitHub Pages (https://...)
+    const basePath = window.location.hostname.includes("github.io")
+      ? "data"  // GitHub Pages expects from root /data/
+      : "../data"; // Local dev matches your current folder structure
+  
+    // Add cache-busting to prevent stale files
+    return `${basePath}/hsk${level}_new.json?v=${Date.now()}`;
+  }
+  
   async function loadPresetPinyin(level) {
     try {
       const response = await fetch(`../data/hsk${level}_new.json`);
@@ -59,7 +69,7 @@ window.addEventListener("DOMContentLoaded", () => {
   // Generic loader for Hanzi
   async function loadPresetHanzi(level) {
     try {
-      const response = await fetch(`../data/hsk${level}_new.json`);
+      const response = await fetch(getDataPath(level));
       const data = await response.json();
   
       flashcards.hanzi[level] = data.map(item => ({
