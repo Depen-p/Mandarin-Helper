@@ -38,23 +38,28 @@ window.addEventListener("DOMContentLoaded", () => {
   };
 
   function getDataPath(level) {
-    // Detect base URL
-    const isGithub = window.location.hostname.includes("github.io");
+    // Get the current path of the site
+    const baseUrl = window.location.origin + window.location.pathname;
   
-    // Get the base directory of the current site
-    const repoName = isGithub ? window.location.pathname.split("/")[1] : "";
+    // If running on GitHub Pages, the first segment after the domain is the repo name
+    // Example: https://username.github.io/repo-name/flashcard.html
+    const pathParts = window.location.pathname.split("/").filter(Boolean);
   
-    // Always load JSON from /data/ at the root of the repo
-    const path = isGithub
-      ? `/${repoName}/data/hsk${level}_new.json`
-      : `../data/hsk${level}_new.json`;
+    let repoBase = "";
+    if (window.location.hostname.includes("github.io") && pathParts.length > 0) {
+      repoBase = `/${pathParts[0]}`;
+    }
   
-    return `${path}?v=${Date.now()}`; // cache-busting
-  }
+    // Always point to /data/hskX_new.json at the repo root
+    const fullPath = `${window.location.origin}${repoBase}/data/hsk${level}_new.json`;
+  
+    // Add cache-busting
+    return `${fullPath}?v=${Date.now()}`;
+  }  
   
   async function loadPresetPinyin(level) {
     try {
-      const response = await fetch(`../data/hsk${level}_new.json`);
+      const response = await fetch(getDataPath(level));
       const data = await response.json();
   
       flashcards.pinyin[level] = data.map(item => ({
@@ -71,7 +76,6 @@ window.addEventListener("DOMContentLoaded", () => {
     }
   }
   
-  // Generic loader for Hanzi
   async function loadPresetHanzi(level) {
     try {
       const response = await fetch(getDataPath(level));
@@ -89,7 +93,7 @@ window.addEventListener("DOMContentLoaded", () => {
     } catch (error) {
       console.error(`❌ Failed to load HSK ${level} Hanzi preset:`, error);
     }
-  }
+  }  
 
   let currentCategory = 1;
   let currentType = "pinyin";
