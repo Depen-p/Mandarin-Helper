@@ -38,13 +38,18 @@ window.addEventListener("DOMContentLoaded", () => {
   };
 
   function getDataPath(level) {
-    // Detect if running locally (file://) or on GitHub Pages (https://...)
-    const basePath = window.location.hostname.includes("github.io")
-      ? "data"  // GitHub Pages expects from root /data/
-      : "../data"; // Local dev matches your current folder structure
+    // Detect base URL
+    const isGithub = window.location.hostname.includes("github.io");
   
-    // Add cache-busting to prevent stale files
-    return `${basePath}/hsk${level}_new.json?v=${Date.now()}`;
+    // Get the base directory of the current site
+    const repoName = isGithub ? window.location.pathname.split("/")[1] : "";
+  
+    // Always load JSON from /data/ at the root of the repo
+    const path = isGithub
+      ? `/${repoName}/data/hsk${level}_new.json`
+      : `../data/hsk${level}_new.json`;
+  
+    return `${path}?v=${Date.now()}`; // cache-busting
   }
   
   async function loadPresetPinyin(level) {
