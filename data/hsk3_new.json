@@ -1,0 +1,4867 @@
+[
+  {
+    "hanzi": "1",
+    "pinyin": "爱心",
+    "english": "àixīn"
+  },
+  {
+    "hanzi": "2",
+    "pinyin": "安排",
+    "english": "ānpái"
+  },
+  {
+    "hanzi": "3",
+    "pinyin": "安装",
+    "english": "ānzhuāng"
+  },
+  {
+    "hanzi": "4",
+    "pinyin": "按",
+    "english": "àn"
+  },
+  {
+    "hanzi": "5",
+    "pinyin": "按照",
+    "english": "ànzhào"
+  },
+  {
+    "hanzi": "6",
+    "pinyin": "把（介）",
+    "english": "bǎ"
+  },
+  {
+    "hanzi": "7",
+    "pinyin": "把（量）",
+    "english": "bǎ"
+  },
+  {
+    "hanzi": "8",
+    "pinyin": "把握",
+    "english": "bǎwò"
+  },
+  {
+    "hanzi": "9",
+    "pinyin": "白（副）",
+    "english": "bái"
+  },
+  {
+    "hanzi": "10",
+    "pinyin": "白菜",
+    "english": "bái cài"
+  },
+  {
+    "hanzi": "11",
+    "pinyin": "班级",
+    "english": "bān jí"
+  },
+  {
+    "hanzi": "12",
+    "pinyin": "搬",
+    "english": "bān"
+  },
+  {
+    "hanzi": "13",
+    "pinyin": "搬家",
+    "english": "bān jiā"
+  },
+  {
+    "hanzi": "14",
+    "pinyin": "板",
+    "english": "bǎn"
+  },
+  {
+    "hanzi": "15",
+    "pinyin": "办理",
+    "english": "bànlǐ"
+  },
+  {
+    "hanzi": "16",
+    "pinyin": "保",
+    "english": "bǎo"
+  },
+  {
+    "hanzi": "17",
+    "pinyin": "保安",
+    "english": "bǎo ān"
+  },
+  {
+    "hanzi": "18",
+    "pinyin": "保持",
+    "english": "bǎochí"
+  },
+  {
+    "hanzi": "19",
+    "pinyin": "保存",
+    "english": "bǎocún"
+  },
+  {
+    "hanzi": "20",
+    "pinyin": "保护",
+    "english": "bǎohù"
+  },
+  {
+    "hanzi": "21",
+    "pinyin": "保留",
+    "english": "bǎoliú"
+  },
+  {
+    "hanzi": "22",
+    "pinyin": "保险",
+    "english": "bǎoxiǎn"
+  },
+  {
+    "hanzi": "23",
+    "pinyin": "保证",
+    "english": "bǎozhèng"
+  },
+  {
+    "hanzi": "24",
+    "pinyin": "报（名）",
+    "english": "bào"
+  },
+  {
+    "hanzi": "25",
+    "pinyin": "报到",
+    "english": "bàodào"
+  },
+  {
+    "hanzi": "26",
+    "pinyin": "报道",
+    "english": "bàodào"
+  },
+  {
+    "hanzi": "27",
+    "pinyin": "报告",
+    "english": "bàogào"
+  },
+  {
+    "hanzi": "28",
+    "pinyin": "背",
+    "english": "bèi"
+  },
+  {
+    "hanzi": "29",
+    "pinyin": "北部",
+    "english": "běi bù"
+  },
+  {
+    "hanzi": "30",
+    "pinyin": "背（名）",
+    "english": "bèi"
+  },
+  {
+    "hanzi": "31",
+    "pinyin": "背后",
+    "english": "bèi hòu"
+  },
+  {
+    "hanzi": "32",
+    "pinyin": "被",
+    "english": "bèi"
+  },
+  {
+    "hanzi": "33",
+    "pinyin": "被子",
+    "english": "bèizi"
+  },
+  {
+    "hanzi": "34",
+    "pinyin": "本来",
+    "english": "běnlái"
+  },
+  {
+    "hanzi": "35",
+    "pinyin": "本领",
+    "english": "běnlǐng"
+  },
+  {
+    "hanzi": "36",
+    "pinyin": "本事",
+    "english": "běnshi"
+  },
+  {
+    "hanzi": "37",
+    "pinyin": "比较",
+    "english": "bǐjiào"
+  },
+  {
+    "hanzi": "38",
+    "pinyin": "比例",
+    "english": "bǐlì"
+  },
+  {
+    "hanzi": "39",
+    "pinyin": "比赛",
+    "english": "bǐsài"
+  },
+  {
+    "hanzi": "40",
+    "pinyin": "必然",
+    "english": "bìrán"
+  },
+  {
+    "hanzi": "41",
+    "pinyin": "必要",
+    "english": "bìyào"
+  },
+  {
+    "hanzi": "42",
+    "pinyin": "变化",
+    "english": "biànhuà"
+  },
+  {
+    "hanzi": "43",
+    "pinyin": "变为",
+    "english": "biàn wéi"
+  },
+  {
+    "hanzi": "44",
+    "pinyin": "标题",
+    "english": "biāotí"
+  },
+  {
+    "hanzi": "45",
+    "pinyin": "标准",
+    "english": "biāozhǔn"
+  },
+  {
+    "hanzi": "46",
+    "pinyin": "表达",
+    "english": "biǎodá"
+  },
+  {
+    "hanzi": "47",
+    "pinyin": "表格",
+    "english": "biǎogé"
+  },
+  {
+    "hanzi": "48",
+    "pinyin": "表面",
+    "english": "biǎomiàn"
+  },
+  {
+    "hanzi": "49",
+    "pinyin": "表明",
+    "english": "biǎomíng"
+  },
+  {
+    "hanzi": "50",
+    "pinyin": "表现",
+    "english": "biǎoxiàn"
+  },
+  {
+    "hanzi": "51",
+    "pinyin": "表演",
+    "english": "biǎoyǎn"
+  },
+  {
+    "hanzi": "52",
+    "pinyin": "并（副、连）",
+    "english": "bìng"
+  },
+  {
+    "hanzi": "53",
+    "pinyin": "并且",
+    "english": "bìngqiě"
+  },
+  {
+    "hanzi": "54",
+    "pinyin": "播出",
+    "english": "bō chū"
+  },
+  {
+    "hanzi": "55",
+    "pinyin": "播放",
+    "english": "bōfàng"
+  },
+  {
+    "hanzi": "56",
+    "pinyin": "不必",
+    "english": "bú bì"
+  },
+  {
+    "hanzi": "57",
+    "pinyin": "不断",
+    "english": "búduàn"
+  },
+  {
+    "hanzi": "58",
+    "pinyin": "不论",
+    "english": "bú lùn"
+  },
+  {
+    "hanzi": "59",
+    "pinyin": "补",
+    "english": "bǔ"
+  },
+  {
+    "hanzi": "60",
+    "pinyin": "补充",
+    "english": "bǔchōng"
+  },
+  {
+    "hanzi": "61",
+    "pinyin": "不安",
+    "english": "bù’ān"
+  },
+  {
+    "hanzi": "62",
+    "pinyin": "不得不",
+    "english": "bùdébù"
+  },
+  {
+    "hanzi": "63",
+    "pinyin": "不光",
+    "english": "bù guāng"
+  },
+  {
+    "hanzi": "64",
+    "pinyin": "不仅",
+    "english": "bùjǐn"
+  },
+  {
+    "hanzi": "65",
+    "pinyin": "布",
+    "english": "bù"
+  },
+  {
+    "hanzi": "66",
+    "pinyin": "步",
+    "english": "bù"
+  },
+  {
+    "hanzi": "67",
+    "pinyin": "部",
+    "english": "bù"
+  },
+  {
+    "hanzi": "68",
+    "pinyin": "部门",
+    "english": "bùmén"
+  },
+  {
+    "hanzi": "69",
+    "pinyin": "部长",
+    "english": "bù zhǎng"
+  },
+  {
+    "hanzi": "70",
+    "pinyin": "才能",
+    "english": "cái néng"
+  },
+  {
+    "hanzi": "71",
+    "pinyin": "采取",
+    "english": "cǎiqǔ"
+  },
+  {
+    "hanzi": "72",
+    "pinyin": "采用",
+    "english": "cǎi yòng"
+  },
+  {
+    "hanzi": "73",
+    "pinyin": "彩色",
+    "english": "cǎi sè"
+  },
+  {
+    "hanzi": "74",
+    "pinyin": "曾经",
+    "english": "céngjīng"
+  },
+  {
+    "hanzi": "75",
+    "pinyin": "产生",
+    "english": "chǎnshēng"
+  },
+  {
+    "hanzi": "76",
+    "pinyin": "长城",
+    "english": "Chángchéng"
+  },
+  {
+    "hanzi": "77",
+    "pinyin": "长处",
+    "english": "cháng chù"
+  },
+  {
+    "hanzi": "78",
+    "pinyin": "长期",
+    "english": "cháng qī"
+  },
+  {
+    "hanzi": "79",
+    "pinyin": "厂",
+    "english": "chǎng"
+  },
+  {
+    "hanzi": "80",
+    "pinyin": "场合",
+    "english": "chǎnghé"
+  },
+  {
+    "hanzi": "81",
+    "pinyin": "场所",
+    "english": "chǎngsuǒ"
+  },
+  {
+    "hanzi": "82",
+    "pinyin": "超级",
+    "english": "chāojí"
+  },
+  {
+    "hanzi": "83",
+    "pinyin": "朝",
+    "english": "cháo"
+  },
+  {
+    "hanzi": "84",
+    "pinyin": "吵",
+    "english": "chǎo"
+  },
+  {
+    "hanzi": "85",
+    "pinyin": "吵架",
+    "english": "chǎojià"
+  },
+  {
+    "hanzi": "86",
+    "pinyin": "衬衫",
+    "english": "chènshān"
+  },
+  {
+    "hanzi": "87",
+    "pinyin": "衬衣",
+    "english": "chèn yī"
+  },
+  {
+    "hanzi": "88",
+    "pinyin": "称为",
+    "english": "chēng wéi"
+  },
+  {
+    "hanzi": "89",
+    "pinyin": "成功",
+    "english": "chénggōng"
+  },
+  {
+    "hanzi": "90",
+    "pinyin": "成果",
+    "english": "chéngguǒ"
+  },
+  {
+    "hanzi": "91",
+    "pinyin": "成就",
+    "english": "chéngjiù"
+  },
+  {
+    "hanzi": "92",
+    "pinyin": "成立",
+    "english": "chénglì"
+  },
+  {
+    "hanzi": "93",
+    "pinyin": "成熟",
+    "english": "chéngshú"
+  },
+  {
+    "hanzi": "94",
+    "pinyin": "成员",
+    "english": "chéngyuán"
+  },
+  {
+    "hanzi": "95",
+    "pinyin": "成长",
+    "english": "chéngzhǎng"
+  },
+  {
+    "hanzi": "96",
+    "pinyin": "城",
+    "english": "chéng"
+  },
+  {
+    "hanzi": "97",
+    "pinyin": "城市",
+    "english": "chéngshì"
+  },
+  {
+    "hanzi": "98",
+    "pinyin": "程度",
+    "english": "chéngdù"
+  },
+  {
+    "hanzi": "99",
+    "pinyin": "持续",
+    "english": "chíxù"
+  },
+  {
+    "hanzi": "100",
+    "pinyin": "充满",
+    "english": "chōngmǎn"
+  },
+  {
+    "hanzi": "101",
+    "pinyin": "重",
+    "english": "zhòng"
+  },
+  {
+    "hanzi": "102",
+    "pinyin": "初",
+    "english": "chū"
+  },
+  {
+    "hanzi": "103",
+    "pinyin": "初（初一）",
+    "english": "chū （chū yī）"
+  },
+  {
+    "hanzi": "104",
+    "pinyin": "初步",
+    "english": "chūbù"
+  },
+  {
+    "hanzi": "105",
+    "pinyin": "初级",
+    "english": "chūjí"
+  },
+  {
+    "hanzi": "106",
+    "pinyin": "初中",
+    "english": "chū zhōng"
+  },
+  {
+    "hanzi": "107",
+    "pinyin": "除了",
+    "english": "chúle"
+  },
+  {
+    "hanzi": "108",
+    "pinyin": "处理",
+    "english": "chǔlǐ"
+  },
+  {
+    "hanzi": "109",
+    "pinyin": "传",
+    "english": "chuán"
+  },
+  {
+    "hanzi": "110",
+    "pinyin": "传播",
+    "english": "chuánbō"
+  },
+  {
+    "hanzi": "111",
+    "pinyin": "传来",
+    "english": "chuán lái"
+  },
+  {
+    "hanzi": "112",
+    "pinyin": "传说",
+    "english": "chuánshuō"
+  },
+  {
+    "hanzi": "113",
+    "pinyin": "创新",
+    "english": "chuàngxīn"
+  },
+  {
+    "hanzi": "114",
+    "pinyin": "创业",
+    "english": "chuàngyè"
+  },
+  {
+    "hanzi": "115",
+    "pinyin": "创造",
+    "english": "chuàngzào"
+  },
+  {
+    "hanzi": "116",
+    "pinyin": "创作",
+    "english": "chuàngzuò"
+  },
+  {
+    "hanzi": "117",
+    "pinyin": "从来",
+    "english": "cónglái"
+  },
+  {
+    "hanzi": "118",
+    "pinyin": "从前",
+    "english": "cóngqián"
+  },
+  {
+    "hanzi": "119",
+    "pinyin": "从事",
+    "english": "cóngshì"
+  },
+  {
+    "hanzi": "120",
+    "pinyin": "村",
+    "english": "cūn"
+  },
+  {
+    "hanzi": "121",
+    "pinyin": "存",
+    "english": "cún"
+  },
+  {
+    "hanzi": "122",
+    "pinyin": "存在",
+    "english": "cúnzài"
+  },
+  {
+    "hanzi": "123",
+    "pinyin": "错误",
+    "english": "cuòwù"
+  },
+  {
+    "hanzi": "124",
+    "pinyin": "达到",
+    "english": "dádào"
+  },
+  {
+    "hanzi": "125",
+    "pinyin": "打破",
+    "english": "dǎ pò"
+  },
+  {
+    "hanzi": "126",
+    "pinyin": "打听",
+    "english": "dǎting"
+  },
+  {
+    "hanzi": "127",
+    "pinyin": "大概",
+    "english": "dàgài"
+  },
+  {
+    "hanzi": "128",
+    "pinyin": "大使馆",
+    "english": "dàshǐguǎn"
+  },
+  {
+    "hanzi": "129",
+    "pinyin": "大约",
+    "english": "dàyuē"
+  },
+  {
+    "hanzi": "130",
+    "pinyin": "大夫",
+    "english": "dàifu"
+  },
+  {
+    "hanzi": "131",
+    "pinyin": "代",
+    "english": "dài"
+  },
+  {
+    "hanzi": "132",
+    "pinyin": "代表",
+    "english": "dàibiǎo"
+  },
+  {
+    "hanzi": "133",
+    "pinyin": "代表团",
+    "english": "dài biǎo tuán"
+  },
+  {
+    "hanzi": "134",
+    "pinyin": "带动",
+    "english": "dài dòng"
+  },
+  {
+    "hanzi": "135",
+    "pinyin": "带领",
+    "english": "dàilǐng"
+  },
+  {
+    "hanzi": "136",
+    "pinyin": "单元",
+    "english": "dānyuán"
+  },
+  {
+    "hanzi": "137",
+    "pinyin": "当初",
+    "english": "dāngchū"
+  },
+  {
+    "hanzi": "138",
+    "pinyin": "当地",
+    "english": "dāngdì"
+  },
+  {
+    "hanzi": "139",
+    "pinyin": "当然",
+    "english": "dāngrán"
+  },
+  {
+    "hanzi": "140",
+    "pinyin": "当中",
+    "english": "dāng zhōng"
+  },
+  {
+    "hanzi": "141",
+    "pinyin": "刀",
+    "english": "dāo"
+  },
+  {
+    "hanzi": "142",
+    "pinyin": "导演",
+    "english": "dǎoyǎn"
+  },
+  {
+    "hanzi": "143",
+    "pinyin": "到达",
+    "english": "dàodá"
+  },
+  {
+    "hanzi": "144",
+    "pinyin": "到底",
+    "english": "dàodǐ"
+  },
+  {
+    "hanzi": "145",
+    "pinyin": "得分",
+    "english": "dé fēn"
+  },
+  {
+    "hanzi": "146",
+    "pinyin": "等待",
+    "english": "děngdài"
+  },
+  {
+    "hanzi": "147",
+    "pinyin": "底下",
+    "english": "dǐ xià"
+  },
+  {
+    "hanzi": "148",
+    "pinyin": "地区",
+    "english": "dìqū"
+  },
+  {
+    "hanzi": "149",
+    "pinyin": "电视剧",
+    "english": "diàn shì jù"
+  },
+  {
+    "hanzi": "150",
+    "pinyin": "电视台",
+    "english": "diàn shì tái"
+  },
+  {
+    "hanzi": "151",
+    "pinyin": "电台",
+    "english": "diàntái"
+  },
+  {
+    "hanzi": "152",
+    "pinyin": "电子邮件",
+    "english": "diànzǐyóujiàn"
+  },
+  {
+    "hanzi": "153",
+    "pinyin": "调",
+    "english": "diào"
+  },
+  {
+    "hanzi": "154",
+    "pinyin": "调查",
+    "english": "diàochá"
+  },
+  {
+    "hanzi": "155",
+    "pinyin": "订",
+    "english": "dìng"
+  },
+  {
+    "hanzi": "156",
+    "pinyin": "定期",
+    "english": "dìngqī"
+  },
+  {
+    "hanzi": "157",
+    "pinyin": "东部",
+    "english": "dōng bù"
+  },
+  {
+    "hanzi": "158",
+    "pinyin": "动力",
+    "english": "dònglì"
+  },
+  {
+    "hanzi": "159",
+    "pinyin": "动人",
+    "english": "dòng rén"
+  },
+  {
+    "hanzi": "160",
+    "pinyin": "读者",
+    "english": "dú zhě"
+  },
+  {
+    "hanzi": "161",
+    "pinyin": "短处",
+    "english": "duǎn chù"
+  },
+  {
+    "hanzi": "162",
+    "pinyin": "短裤",
+    "english": "duǎn kù"
+  },
+  {
+    "hanzi": "163",
+    "pinyin": "短期",
+    "english": "duǎn qī"
+  },
+  {
+    "hanzi": "164",
+    "pinyin": "断",
+    "english": "duàn"
+  },
+  {
+    "hanzi": "165",
+    "pinyin": "队员",
+    "english": "duì yuán"
+  },
+  {
+    "hanzi": "166",
+    "pinyin": "对待",
+    "english": "duìdài"
+  },
+  {
+    "hanzi": "167",
+    "pinyin": "对方",
+    "english": "duìfāng"
+  },
+  {
+    "hanzi": "168",
+    "pinyin": "对手",
+    "english": "duìshǒu"
+  },
+  {
+    "hanzi": "169",
+    "pinyin": "对象",
+    "english": "duìxiàng"
+  },
+  {
+    "hanzi": "170",
+    "pinyin": "顿",
+    "english": "dùn"
+  },
+  {
+    "hanzi": "171",
+    "pinyin": "发表",
+    "english": "fābiǎo"
+  },
+  {
+    "hanzi": "172",
+    "pinyin": "发出",
+    "english": "fā chū"
+  },
+  {
+    "hanzi": "173",
+    "pinyin": "发达",
+    "english": "fādá"
+  },
+  {
+    "hanzi": "174",
+    "pinyin": "发动",
+    "english": "fādòng"
+  },
+  {
+    "hanzi": "175",
+    "pinyin": "发明",
+    "english": "fāmíng"
+  },
+  {
+    "hanzi": "176",
+    "pinyin": "发生",
+    "english": "fāshēng"
+  },
+  {
+    "hanzi": "177",
+    "pinyin": "发送",
+    "english": "fā sòng"
+  },
+  {
+    "hanzi": "178",
+    "pinyin": "发言",
+    "english": "fāyán"
+  },
+  {
+    "hanzi": "179",
+    "pinyin": "发展",
+    "english": "fāzhǎn"
+  },
+  {
+    "hanzi": "180",
+    "pinyin": "反对",
+    "english": "fǎnduì"
+  },
+  {
+    "hanzi": "181",
+    "pinyin": "反复",
+    "english": "fǎnfù"
+  },
+  {
+    "hanzi": "182",
+    "pinyin": "反应",
+    "english": "fǎnyìng"
+  },
+  {
+    "hanzi": "183",
+    "pinyin": "反正",
+    "english": "fǎnzhèng"
+  },
+  {
+    "hanzi": "184",
+    "pinyin": "范围",
+    "english": "fànwéi"
+  },
+  {
+    "hanzi": "185",
+    "pinyin": "方式",
+    "english": "fāngshì"
+  },
+  {
+    "hanzi": "186",
+    "pinyin": "防",
+    "english": "fáng"
+  },
+  {
+    "hanzi": "187",
+    "pinyin": "防止",
+    "english": "fángzhǐ"
+  },
+  {
+    "hanzi": "188",
+    "pinyin": "房东",
+    "english": "fángdōng"
+  },
+  {
+    "hanzi": "189",
+    "pinyin": "房屋",
+    "english": "fáng wū"
+  },
+  {
+    "hanzi": "190",
+    "pinyin": "房租",
+    "english": "fáng zū"
+  },
+  {
+    "hanzi": "191",
+    "pinyin": "访问",
+    "english": "fǎngwèn"
+  },
+  {
+    "hanzi": "192",
+    "pinyin": "放到",
+    "english": "fàng dào"
+  },
+  {
+    "hanzi": "193",
+    "pinyin": "飞行",
+    "english": "fēi xíng"
+  },
+  {
+    "hanzi": "194",
+    "pinyin": "费",
+    "english": "fèi"
+  },
+  {
+    "hanzi": "195",
+    "pinyin": "费用",
+    "english": "fèi yòng"
+  },
+  {
+    "hanzi": "196",
+    "pinyin": "分别",
+    "english": "fēnbié"
+  },
+  {
+    "hanzi": "197",
+    "pinyin": "分配",
+    "english": "fēnpèi"
+  },
+  {
+    "hanzi": "198",
+    "pinyin": "分组",
+    "english": "fēn zǔ"
+  },
+  {
+    "hanzi": "199",
+    "pinyin": "丰富",
+    "english": "fēngfù"
+  },
+  {
+    "hanzi": "200",
+    "pinyin": "风险",
+    "english": "fēngxiǎn"
+  },
+  {
+    "hanzi": "201",
+    "pinyin": "否定",
+    "english": "fǒudìng"
+  },
+  {
+    "hanzi": "202",
+    "pinyin": "否认",
+    "english": "fǒurèn"
+  },
+  {
+    "hanzi": "203",
+    "pinyin": "服装",
+    "english": "fúzhuāng"
+  },
+  {
+    "hanzi": "204",
+    "pinyin": "福",
+    "english": "fú"
+  },
+  {
+    "hanzi": "205",
+    "pinyin": "父母",
+    "english": "fù mǔ"
+  },
+  {
+    "hanzi": "206",
+    "pinyin": "父亲",
+    "english": "fùqīn"
+  },
+  {
+    "hanzi": "207",
+    "pinyin": "付",
+    "english": "fù"
+  },
+  {
+    "hanzi": "208",
+    "pinyin": "负责",
+    "english": "fùzé"
+  },
+  {
+    "hanzi": "209",
+    "pinyin": "复印",
+    "english": "fùyìn"
+  },
+  {
+    "hanzi": "210",
+    "pinyin": "复杂",
+    "english": "fùzá"
+  },
+  {
+    "hanzi": "211",
+    "pinyin": "富",
+    "english": "fù"
+  },
+  {
+    "hanzi": "212",
+    "pinyin": "改进",
+    "english": "gǎijìn"
+  },
+  {
+    "hanzi": "213",
+    "pinyin": "改造",
+    "english": "gǎi zào"
+  },
+  {
+    "hanzi": "214",
+    "pinyin": "概念",
+    "english": "gàiniàn"
+  },
+  {
+    "hanzi": "215",
+    "pinyin": "赶",
+    "english": "gǎn"
+  },
+  {
+    "hanzi": "216",
+    "pinyin": "赶到",
+    "english": "gǎn dào"
+  },
+  {
+    "hanzi": "217",
+    "pinyin": "赶紧",
+    "english": "gǎnjǐn"
+  },
+  {
+    "hanzi": "218",
+    "pinyin": "赶快",
+    "english": "gǎnkuài"
+  },
+  {
+    "hanzi": "219",
+    "pinyin": "敢",
+    "english": "gǎn"
+  },
+  {
+    "hanzi": "220",
+    "pinyin": "感冒",
+    "english": "gǎnmào"
+  },
+  {
+    "hanzi": "221",
+    "pinyin": "感情",
+    "english": "gǎnqíng"
+  },
+  {
+    "hanzi": "222",
+    "pinyin": "感受",
+    "english": "gǎnshòu"
+  },
+  {
+    "hanzi": "223",
+    "pinyin": "干吗",
+    "english": "gàn má"
+  },
+  {
+    "hanzi": "224",
+    "pinyin": "高速",
+    "english": "gāo sù"
+  },
+  {
+    "hanzi": "225",
+    "pinyin": "高速公路",
+    "english": "gāosùgōnglù"
+  },
+  {
+    "hanzi": "226",
+    "pinyin": "告别",
+    "english": "gàobié"
+  },
+  {
+    "hanzi": "227",
+    "pinyin": "歌迷",
+    "english": "gē mí"
+  },
+  {
+    "hanzi": "228",
+    "pinyin": "歌声",
+    "english": "gē shēng"
+  },
+  {
+    "hanzi": "229",
+    "pinyin": "歌手",
+    "english": "gē shǒu"
+  },
+  {
+    "hanzi": "230",
+    "pinyin": "个人",
+    "english": "gèrén"
+  },
+  {
+    "hanzi": "231",
+    "pinyin": "个性",
+    "english": "gèxìng"
+  },
+  {
+    "hanzi": "232",
+    "pinyin": "各",
+    "english": "gè"
+  },
+  {
+    "hanzi": "233",
+    "pinyin": "各地",
+    "english": "gè dì"
+  },
+  {
+    "hanzi": "234",
+    "pinyin": "各位",
+    "english": "gè wèi"
+  },
+  {
+    "hanzi": "235",
+    "pinyin": "各种",
+    "english": "gè zhǒng"
+  },
+  {
+    "hanzi": "236",
+    "pinyin": "各自",
+    "english": "gèzì"
+  },
+  {
+    "hanzi": "237",
+    "pinyin": "根本",
+    "english": "gēnběn"
+  },
+  {
+    "hanzi": "238",
+    "pinyin": "更加",
+    "english": "gèng jiā"
+  },
+  {
+    "hanzi": "239",
+    "pinyin": "工厂",
+    "english": "gōngchǎng"
+  },
+  {
+    "hanzi": "240",
+    "pinyin": "工程师",
+    "english": "gōngchéngshī"
+  },
+  {
+    "hanzi": "241",
+    "pinyin": "工夫",
+    "english": "gōng fu"
+  },
+  {
+    "hanzi": "242",
+    "pinyin": "工具",
+    "english": "gōngjù"
+  },
+  {
+    "hanzi": "243",
+    "pinyin": "工业",
+    "english": "gōngyè"
+  },
+  {
+    "hanzi": "244",
+    "pinyin": "工资",
+    "english": "gōngzī"
+  },
+  {
+    "hanzi": "245",
+    "pinyin": "公布",
+    "english": "gōngbù"
+  },
+  {
+    "hanzi": "246",
+    "pinyin": "公共",
+    "english": "gōng gòng"
+  },
+  {
+    "hanzi": "247",
+    "pinyin": "公开",
+    "english": "gōngkāi"
+  },
+  {
+    "hanzi": "248",
+    "pinyin": "公民",
+    "english": "gōngmín"
+  },
+  {
+    "hanzi": "249",
+    "pinyin": "公务员",
+    "english": "gōng wù yuán"
+  },
+  {
+    "hanzi": "250",
+    "pinyin": "功夫",
+    "english": "gōngfu"
+  },
+  {
+    "hanzi": "251",
+    "pinyin": "功课",
+    "english": "gōng kè"
+  },
+  {
+    "hanzi": "252",
+    "pinyin": "功能",
+    "english": "gōngnéng"
+  },
+  {
+    "hanzi": "253",
+    "pinyin": "共同",
+    "english": "gòngtóng"
+  },
+  {
+    "hanzi": "254",
+    "pinyin": "共有",
+    "english": "gòng yǒu"
+  },
+  {
+    "hanzi": "255",
+    "pinyin": "姑娘",
+    "english": "gūniang"
+  },
+  {
+    "hanzi": "256",
+    "pinyin": "古",
+    "english": "gǔ"
+  },
+  {
+    "hanzi": "257",
+    "pinyin": "古代",
+    "english": "gǔdài"
+  },
+  {
+    "hanzi": "258",
+    "pinyin": "故乡",
+    "english": "gùxiāng"
+  },
+  {
+    "hanzi": "259",
+    "pinyin": "挂",
+    "english": "guà"
+  },
+  {
+    "hanzi": "260",
+    "pinyin": "关系",
+    "english": "guānxì"
+  },
+  {
+    "hanzi": "261",
+    "pinyin": "关注",
+    "english": "guān zhù"
+  },
+  {
+    "hanzi": "262",
+    "pinyin": "观察",
+    "english": "guānchá"
+  },
+  {
+    "hanzi": "263",
+    "pinyin": "观看",
+    "english": "guān kàn"
+  },
+  {
+    "hanzi": "264",
+    "pinyin": "观念",
+    "english": "guānniàn"
+  },
+  {
+    "hanzi": "265",
+    "pinyin": "观众",
+    "english": "guānzhòng"
+  },
+  {
+    "hanzi": "266",
+    "pinyin": "管",
+    "english": "guǎn"
+  },
+  {
+    "hanzi": "267",
+    "pinyin": "管理",
+    "english": "guǎnlǐ"
+  },
+  {
+    "hanzi": "268",
+    "pinyin": "光",
+    "english": "guāng"
+  },
+  {
+    "hanzi": "269",
+    "pinyin": "光明",
+    "english": "guāngmíng"
+  },
+  {
+    "hanzi": "270",
+    "pinyin": "广播",
+    "english": "guǎngbō"
+  },
+  {
+    "hanzi": "271",
+    "pinyin": "广大",
+    "english": "guǎngdà"
+  },
+  {
+    "hanzi": "272",
+    "pinyin": "规定",
+    "english": "guīdìng"
+  },
+  {
+    "hanzi": "273",
+    "pinyin": "规范",
+    "english": "guīfàn"
+  },
+  {
+    "hanzi": "274",
+    "pinyin": "国内",
+    "english": "guó nèi"
+  },
+  {
+    "hanzi": "275",
+    "pinyin": "国庆",
+    "english": "guó qìng"
+  },
+  {
+    "hanzi": "276",
+    "pinyin": "果然",
+    "english": "guǒrán"
+  },
+  {
+    "hanzi": "277",
+    "pinyin": "果汁",
+    "english": "guǒzhī"
+  },
+  {
+    "hanzi": "278",
+    "pinyin": "过程",
+    "english": "guòchéng"
+  },
+  {
+    "hanzi": "279",
+    "pinyin": "过去（名）",
+    "english": "guò qù"
+  },
+  {
+    "hanzi": "280",
+    "pinyin": "哈哈",
+    "english": "hā hā"
+  },
+  {
+    "hanzi": "281",
+    "pinyin": "海关",
+    "english": "hǎiguān"
+  },
+  {
+    "hanzi": "282",
+    "pinyin": "害怕",
+    "english": "hàipà"
+  },
+  {
+    "hanzi": "283",
+    "pinyin": "行",
+    "english": "háng"
+  },
+  {
+    "hanzi": "284",
+    "pinyin": "好好",
+    "english": "hǎo hǎo"
+  },
+  {
+    "hanzi": "285",
+    "pinyin": "好奇",
+    "english": "hàoqí"
+  },
+  {
+    "hanzi": "286",
+    "pinyin": "合",
+    "english": "hé"
+  },
+  {
+    "hanzi": "287",
+    "pinyin": "合法",
+    "english": "héfǎ"
+  },
+  {
+    "hanzi": "288",
+    "pinyin": "合格",
+    "english": "hégé"
+  },
+  {
+    "hanzi": "289",
+    "pinyin": "合理",
+    "english": "hélǐ"
+  },
+  {
+    "hanzi": "290",
+    "pinyin": "合作",
+    "english": "hézuò"
+  },
+  {
+    "hanzi": "291",
+    "pinyin": "和平",
+    "english": "hépíng"
+  },
+  {
+    "hanzi": "292",
+    "pinyin": "红茶",
+    "english": "hóng chá"
+  },
+  {
+    "hanzi": "293",
+    "pinyin": "红酒",
+    "english": "hóng jiǔ"
+  },
+  {
+    "hanzi": "294",
+    "pinyin": "后果",
+    "english": "hòuguǒ"
+  },
+  {
+    "hanzi": "295",
+    "pinyin": "后面",
+    "english": "hòumiàn"
+  },
+  {
+    "hanzi": "296",
+    "pinyin": "后年",
+    "english": "hòu nián"
+  },
+  {
+    "hanzi": "297",
+    "pinyin": "互联网",
+    "english": "hùliánwǎng"
+  },
+  {
+    "hanzi": "298",
+    "pinyin": "互相",
+    "english": "hùxiāng"
+  },
+  {
+    "hanzi": "299",
+    "pinyin": "划船",
+    "english": "huá chuán"
+  },
+  {
+    "hanzi": "300",
+    "pinyin": "华人",
+    "english": "huá rén"
+  },
+  {
+    "hanzi": "301",
+    "pinyin": "化（现代化）",
+    "english": "huà （xiàn dài huà）"
+  },
+  {
+    "hanzi": "302",
+    "pinyin": "话剧",
+    "english": "huà jù"
+  },
+  {
+    "hanzi": "303",
+    "pinyin": "话题",
+    "english": "huàtí"
+  },
+  {
+    "hanzi": "304",
+    "pinyin": "欢乐",
+    "english": "huānlè"
+  },
+  {
+    "hanzi": "305",
+    "pinyin": "环",
+    "english": "huán"
+  },
+  {
+    "hanzi": "306",
+    "pinyin": "环保",
+    "english": "huán bǎo"
+  },
+  {
+    "hanzi": "307",
+    "pinyin": "环境",
+    "english": "huánjìng"
+  },
+  {
+    "hanzi": "308",
+    "pinyin": "会议",
+    "english": "huìyì"
+  },
+  {
+    "hanzi": "309",
+    "pinyin": "会员",
+    "english": "huì yuán"
+  },
+  {
+    "hanzi": "310",
+    "pinyin": "活",
+    "english": "huó"
+  },
+  {
+    "hanzi": "311",
+    "pinyin": "火（名）",
+    "english": "huǒ"
+  },
+  {
+    "hanzi": "312",
+    "pinyin": "机器",
+    "english": "jīqì"
+  },
+  {
+    "hanzi": "313",
+    "pinyin": "积极",
+    "english": "jījí"
+  },
+  {
+    "hanzi": "314",
+    "pinyin": "基本",
+    "english": "jīběn"
+  },
+  {
+    "hanzi": "315",
+    "pinyin": "基本上",
+    "english": "jī běn shàng"
+  },
+  {
+    "hanzi": "316",
+    "pinyin": "基础",
+    "english": "jīchǔ"
+  },
+  {
+    "hanzi": "317",
+    "pinyin": "及时",
+    "english": "jíshí"
+  },
+  {
+    "hanzi": "318",
+    "pinyin": "…极了",
+    "english": "… jí le"
+  },
+  {
+    "hanzi": "319",
+    "pinyin": "集体",
+    "english": "jítǐ"
+  },
+  {
+    "hanzi": "320",
+    "pinyin": "集中",
+    "english": "jízhōng"
+  },
+  {
+    "hanzi": "321",
+    "pinyin": "计算",
+    "english": "jìsuàn"
+  },
+  {
+    "hanzi": "322",
+    "pinyin": "记录",
+    "english": "jìlù"
+  },
+  {
+    "hanzi": "323",
+    "pinyin": "记者",
+    "english": "jìzhě"
+  },
+  {
+    "hanzi": "324",
+    "pinyin": "纪录",
+    "english": "jìlù"
+  },
+  {
+    "hanzi": "325",
+    "pinyin": "纪念",
+    "english": "jìniàn"
+  },
+  {
+    "hanzi": "326",
+    "pinyin": "技术",
+    "english": "jìshù"
+  },
+  {
+    "hanzi": "327",
+    "pinyin": "继续",
+    "english": "jìxù"
+  },
+  {
+    "hanzi": "328",
+    "pinyin": "加工",
+    "english": "jiāgōng"
+  },
+  {
+    "hanzi": "329",
+    "pinyin": "加快",
+    "english": "jiā kuài"
+  },
+  {
+    "hanzi": "330",
+    "pinyin": "加强",
+    "english": "jiā qiáng"
+  },
+  {
+    "hanzi": "331",
+    "pinyin": "家具",
+    "english": "jiājù"
+  },
+  {
+    "hanzi": "332",
+    "pinyin": "家属",
+    "english": "jiāshǔ"
+  },
+  {
+    "hanzi": "333",
+    "pinyin": "家乡",
+    "english": "jiāxiāng"
+  },
+  {
+    "hanzi": "334",
+    "pinyin": "价格",
+    "english": "jiàgé"
+  },
+  {
+    "hanzi": "335",
+    "pinyin": "价钱",
+    "english": "jià qián"
+  },
+  {
+    "hanzi": "336",
+    "pinyin": "价值",
+    "english": "jiàzhí"
+  },
+  {
+    "hanzi": "337",
+    "pinyin": "架",
+    "english": "jià"
+  },
+  {
+    "hanzi": "338",
+    "pinyin": "坚持",
+    "english": "jiānchí"
+  },
+  {
+    "hanzi": "339",
+    "pinyin": "坚决",
+    "english": "jiānjué"
+  },
+  {
+    "hanzi": "340",
+    "pinyin": "坚强",
+    "english": "jiānqiáng"
+  },
+  {
+    "hanzi": "341",
+    "pinyin": "简单",
+    "english": "jiǎndān"
+  },
+  {
+    "hanzi": "342",
+    "pinyin": "简直",
+    "english": "jiǎnzhí"
+  },
+  {
+    "hanzi": "343",
+    "pinyin": "建",
+    "english": "jiàn"
+  },
+  {
+    "hanzi": "344",
+    "pinyin": "建成",
+    "english": "jiàn chéng"
+  },
+  {
+    "hanzi": "345",
+    "pinyin": "建立",
+    "english": "jiànlì"
+  },
+  {
+    "hanzi": "346",
+    "pinyin": "建设",
+    "english": "jiànshè"
+  },
+  {
+    "hanzi": "347",
+    "pinyin": "建议",
+    "english": "jiànyì"
+  },
+  {
+    "hanzi": "348",
+    "pinyin": "将近",
+    "english": "jiāngjìn"
+  },
+  {
+    "hanzi": "349",
+    "pinyin": "将来",
+    "english": "jiānglái"
+  },
+  {
+    "hanzi": "350",
+    "pinyin": "交费",
+    "english": "jiāo fèi"
+  },
+  {
+    "hanzi": "351",
+    "pinyin": "交警",
+    "english": "jiāo jǐng"
+  },
+  {
+    "hanzi": "352",
+    "pinyin": "交流",
+    "english": "jiāoliú"
+  },
+  {
+    "hanzi": "353",
+    "pinyin": "交往",
+    "english": "jiāowǎng"
+  },
+  {
+    "hanzi": "354",
+    "pinyin": "交易",
+    "english": "jiāoyì"
+  },
+  {
+    "hanzi": "355",
+    "pinyin": "叫（介）",
+    "english": "jiào"
+  },
+  {
+    "hanzi": "356",
+    "pinyin": "较",
+    "english": "jiào"
+  },
+  {
+    "hanzi": "357",
+    "pinyin": "教材",
+    "english": "jiàocái"
+  },
+  {
+    "hanzi": "358",
+    "pinyin": "教练",
+    "english": "jiàoliàn"
+  },
+  {
+    "hanzi": "359",
+    "pinyin": "结实",
+    "english": "jiēshi"
+  },
+  {
+    "hanzi": "360",
+    "pinyin": "接待",
+    "english": "jiēdài"
+  },
+  {
+    "hanzi": "361",
+    "pinyin": "接近",
+    "english": "jiējìn"
+  },
+  {
+    "hanzi": "362",
+    "pinyin": "节约",
+    "english": "jiéyuē"
+  },
+  {
+    "hanzi": "363",
+    "pinyin": "结合",
+    "english": "jiéhé"
+  },
+  {
+    "hanzi": "364",
+    "pinyin": "结婚",
+    "english": "jiéhūn"
+  },
+  {
+    "hanzi": "365",
+    "pinyin": "结束",
+    "english": "jiéshù"
+  },
+  {
+    "hanzi": "366",
+    "pinyin": "解决",
+    "english": "jiějué"
+  },
+  {
+    "hanzi": "367",
+    "pinyin": "解开",
+    "english": "jiě kāi"
+  },
+  {
+    "hanzi": "368",
+    "pinyin": "金",
+    "english": "jīn"
+  },
+  {
+    "hanzi": "369",
+    "pinyin": "金牌",
+    "english": "jīn pái"
+  },
+  {
+    "hanzi": "370",
+    "pinyin": "仅",
+    "english": "jǐn"
+  },
+  {
+    "hanzi": "371",
+    "pinyin": "仅仅",
+    "english": "jǐn jǐn"
+  },
+  {
+    "hanzi": "372",
+    "pinyin": "尽量",
+    "english": "jǐnliàng"
+  },
+  {
+    "hanzi": "373",
+    "pinyin": "紧",
+    "english": "jǐn"
+  },
+  {
+    "hanzi": "374",
+    "pinyin": "紧急",
+    "english": "jǐnjí"
+  },
+  {
+    "hanzi": "375",
+    "pinyin": "紧张",
+    "english": "jǐnzhāng"
+  },
+  {
+    "hanzi": "376",
+    "pinyin": "进步",
+    "english": "jìnbù"
+  },
+  {
+    "hanzi": "377",
+    "pinyin": "进一步",
+    "english": "jìn yí bù"
+  },
+  {
+    "hanzi": "378",
+    "pinyin": "进展",
+    "english": "jìnzhǎn"
+  },
+  {
+    "hanzi": "379",
+    "pinyin": "近期",
+    "english": "jìn qī"
+  },
+  {
+    "hanzi": "380",
+    "pinyin": "京剧",
+    "english": "jīngjù"
+  },
+  {
+    "hanzi": "381",
+    "pinyin": "经济",
+    "english": "jīngjì"
+  },
+  {
+    "hanzi": "382",
+    "pinyin": "经历",
+    "english": "jīnglì"
+  },
+  {
+    "hanzi": "383",
+    "pinyin": "经验",
+    "english": "jīngyàn"
+  },
+  {
+    "hanzi": "384",
+    "pinyin": "经营",
+    "english": "jīngyíng"
+  },
+  {
+    "hanzi": "385",
+    "pinyin": "精彩",
+    "english": "jīngcǎi"
+  },
+  {
+    "hanzi": "386",
+    "pinyin": "精神",
+    "english": "jīngshén"
+  },
+  {
+    "hanzi": "387",
+    "pinyin": "精神",
+    "english": "jīngshen"
+  },
+  {
+    "hanzi": "388",
+    "pinyin": "景色",
+    "english": "jǐngsè"
+  },
+  {
+    "hanzi": "389",
+    "pinyin": "警察",
+    "english": "jǐngchá"
+  },
+  {
+    "hanzi": "390",
+    "pinyin": "静",
+    "english": "jìng"
+  },
+  {
+    "hanzi": "391",
+    "pinyin": "久",
+    "english": "jiǔ"
+  },
+  {
+    "hanzi": "392",
+    "pinyin": "旧",
+    "english": "jiù"
+  },
+  {
+    "hanzi": "393",
+    "pinyin": "救",
+    "english": "jiù"
+  },
+  {
+    "hanzi": "394",
+    "pinyin": "就是",
+    "english": "jiù shì"
+  },
+  {
+    "hanzi": "395",
+    "pinyin": "就业",
+    "english": "jiùyè"
+  },
+  {
+    "hanzi": "396",
+    "pinyin": "举办",
+    "english": "jǔbàn"
+  },
+  {
+    "hanzi": "397",
+    "pinyin": "具体",
+    "english": "jùtǐ"
+  },
+  {
+    "hanzi": "398",
+    "pinyin": "具有",
+    "english": "jù yǒu"
+  },
+  {
+    "hanzi": "399",
+    "pinyin": "剧场",
+    "english": "jù chǎng"
+  },
+  {
+    "hanzi": "400",
+    "pinyin": "据说",
+    "english": "jùshuō"
+  },
+  {
+    "hanzi": "401",
+    "pinyin": "决定",
+    "english": "juédìng"
+  },
+  {
+    "hanzi": "402",
+    "pinyin": "决赛",
+    "english": "juésài"
+  },
+  {
+    "hanzi": "403",
+    "pinyin": "决心",
+    "english": "juéxīn"
+  },
+  {
+    "hanzi": "404",
+    "pinyin": "绝对",
+    "english": "juéduì"
+  },
+  {
+    "hanzi": "405",
+    "pinyin": "咖啡",
+    "english": "kāfēi"
+  },
+  {
+    "hanzi": "406",
+    "pinyin": "开发",
+    "english": "kāifā"
+  },
+  {
+    "hanzi": "407",
+    "pinyin": "开放",
+    "english": "kāifàng"
+  },
+  {
+    "hanzi": "408",
+    "pinyin": "开始",
+    "english": "kāishǐ"
+  },
+  {
+    "hanzi": "409",
+    "pinyin": "开业",
+    "english": "kāi yè"
+  },
+  {
+    "hanzi": "410",
+    "pinyin": "开展",
+    "english": "kāizhǎn"
+  },
+  {
+    "hanzi": "411",
+    "pinyin": "看起来",
+    "english": "kàn qǐ lái"
+  },
+  {
+    "hanzi": "412",
+    "pinyin": "看上去",
+    "english": "kàn shàng qù"
+  },
+  {
+    "hanzi": "413",
+    "pinyin": "考验",
+    "english": "kǎoyàn"
+  },
+  {
+    "hanzi": "414",
+    "pinyin": "科技",
+    "english": "kē jì"
+  },
+  {
+    "hanzi": "415",
+    "pinyin": "可靠",
+    "english": "kěkào"
+  },
+  {
+    "hanzi": "416",
+    "pinyin": "可乐",
+    "english": "kě lè"
+  },
+  {
+    "hanzi": "417",
+    "pinyin": "克服",
+    "english": "kèfú"
+  },
+  {
+    "hanzi": "418",
+    "pinyin": "客观",
+    "english": "kèguān"
+  },
+  {
+    "hanzi": "419",
+    "pinyin": "课程",
+    "english": "kèchéng"
+  },
+  {
+    "hanzi": "420",
+    "pinyin": "空",
+    "english": "kōng"
+  },
+  {
+    "hanzi": "421",
+    "pinyin": "空调",
+    "english": "kōngtiáo"
+  },
+  {
+    "hanzi": "422",
+    "pinyin": "恐怕",
+    "english": "kǒngpà"
+  },
+  {
+    "hanzi": "423",
+    "pinyin": "空儿",
+    "english": "kòngr"
+  },
+  {
+    "hanzi": "424",
+    "pinyin": "裤子",
+    "english": "kùzi"
+  },
+  {
+    "hanzi": "425",
+    "pinyin": "快速",
+    "english": "kuài sù"
+  },
+  {
+    "hanzi": "426",
+    "pinyin": "困",
+    "english": "kùn"
+  },
+  {
+    "hanzi": "427",
+    "pinyin": "困难",
+    "english": "kùnnán"
+  },
+  {
+    "hanzi": "428",
+    "pinyin": "浪费",
+    "english": "làngfèi"
+  },
+  {
+    "hanzi": "429",
+    "pinyin": "老百姓",
+    "english": "lǎobǎixìng"
+  },
+  {
+    "hanzi": "430",
+    "pinyin": "老板",
+    "english": "lǎobǎn"
+  },
+  {
+    "hanzi": "431",
+    "pinyin": "老太太",
+    "english": "lǎo tài tai"
+  },
+  {
+    "hanzi": "432",
+    "pinyin": "老头儿",
+    "english": "lǎo tóur"
+  },
+  {
+    "hanzi": "433",
+    "pinyin": "乐",
+    "english": "lè"
+  },
+  {
+    "hanzi": "434",
+    "pinyin": "乐观",
+    "english": "lèguān"
+  },
+  {
+    "hanzi": "435",
+    "pinyin": "类",
+    "english": "lèi"
+  },
+  {
+    "hanzi": "436",
+    "pinyin": "类似",
+    "english": "lèisì"
+  },
+  {
+    "hanzi": "437",
+    "pinyin": "离婚",
+    "english": "líhūn"
+  },
+  {
+    "hanzi": "438",
+    "pinyin": "里面",
+    "english": "lǐ miàn"
+  },
+  {
+    "hanzi": "439",
+    "pinyin": "理发",
+    "english": "lǐfà"
+  },
+  {
+    "hanzi": "440",
+    "pinyin": "理解",
+    "english": "lǐjiě"
+  },
+  {
+    "hanzi": "441",
+    "pinyin": "理论",
+    "english": "lǐlùn"
+  },
+  {
+    "hanzi": "442",
+    "pinyin": "理由",
+    "english": "lǐyóu"
+  },
+  {
+    "hanzi": "443",
+    "pinyin": "力",
+    "english": "lì"
+  },
+  {
+    "hanzi": "444",
+    "pinyin": "力量",
+    "english": "lìliàng"
+  },
+  {
+    "hanzi": "445",
+    "pinyin": "立刻",
+    "english": "lìkè"
+  },
+  {
+    "hanzi": "446",
+    "pinyin": "利用",
+    "english": "lìyòng"
+  },
+  {
+    "hanzi": "447",
+    "pinyin": "连",
+    "english": "lián"
+  },
+  {
+    "hanzi": "448",
+    "pinyin": "连忙",
+    "english": "liánmáng"
+  },
+  {
+    "hanzi": "449",
+    "pinyin": "连续",
+    "english": "liánxù"
+  },
+  {
+    "hanzi": "450",
+    "pinyin": "连续剧",
+    "english": "lián xù jù"
+  },
+  {
+    "hanzi": "451",
+    "pinyin": "联合",
+    "english": "liánhé"
+  },
+  {
+    "hanzi": "452",
+    "pinyin": "联合国",
+    "english": "lián hé guó"
+  },
+  {
+    "hanzi": "453",
+    "pinyin": "联系",
+    "english": "liánxì"
+  },
+  {
+    "hanzi": "454",
+    "pinyin": "凉水",
+    "english": "liáng shuǐ"
+  },
+  {
+    "hanzi": "455",
+    "pinyin": "了",
+    "english": "le"
+  },
+  {
+    "hanzi": "456",
+    "pinyin": "领",
+    "english": "lǐng"
+  },
+  {
+    "hanzi": "457",
+    "pinyin": "领导",
+    "english": "lǐngdǎo"
+  },
+  {
+    "hanzi": "458",
+    "pinyin": "领先",
+    "english": "lǐngxiān"
+  },
+  {
+    "hanzi": "459",
+    "pinyin": "另外",
+    "english": "lìngwài"
+  },
+  {
+    "hanzi": "460",
+    "pinyin": "另一方面",
+    "english": "lìng yì fāng miàn"
+  },
+  {
+    "hanzi": "461",
+    "pinyin": "留学",
+    "english": "liúxué"
+  },
+  {
+    "hanzi": "462",
+    "pinyin": "龙",
+    "english": "lóng"
+  },
+  {
+    "hanzi": "463",
+    "pinyin": "录",
+    "english": "lù"
+  },
+  {
+    "hanzi": "464",
+    "pinyin": "录音",
+    "english": "lùyīn"
+  },
+  {
+    "hanzi": "465",
+    "pinyin": "路线",
+    "english": "lù xiàn"
+  },
+  {
+    "hanzi": "466",
+    "pinyin": "旅馆",
+    "english": "lǚ guǎn"
+  },
+  {
+    "hanzi": "467",
+    "pinyin": "旅行社",
+    "english": "lǚ xíng shè"
+  },
+  {
+    "hanzi": "468",
+    "pinyin": "绿茶",
+    "english": "lǜ chá"
+  },
+  {
+    "hanzi": "469",
+    "pinyin": "乱",
+    "english": "luàn"
+  },
+  {
+    "hanzi": "470",
+    "pinyin": "落后",
+    "english": "luòhòu"
+  },
+  {
+    "hanzi": "471",
+    "pinyin": "麻烦",
+    "english": "máfan"
+  },
+  {
+    "hanzi": "472",
+    "pinyin": "马",
+    "english": "mǎ"
+  },
+  {
+    "hanzi": "473",
+    "pinyin": "满足",
+    "english": "mǎnzú"
+  },
+  {
+    "hanzi": "474",
+    "pinyin": "慢慢",
+    "english": "màn màn"
+  },
+  {
+    "hanzi": "475",
+    "pinyin": "毛（名）",
+    "english": "máo"
+  },
+  {
+    "hanzi": "476",
+    "pinyin": "毛病",
+    "english": "máobìng"
+  },
+  {
+    "hanzi": "477",
+    "pinyin": "没用",
+    "english": "méi yòng"
+  },
+  {
+    "hanzi": "478",
+    "pinyin": "媒体",
+    "english": "méitǐ"
+  },
+  {
+    "hanzi": "479",
+    "pinyin": "每",
+    "english": "měi"
+  },
+  {
+    "hanzi": "480",
+    "pinyin": "美",
+    "english": "měi"
+  },
+  {
+    "hanzi": "481",
+    "pinyin": "美好",
+    "english": "měi hǎo"
+  },
+  {
+    "hanzi": "482",
+    "pinyin": "美丽",
+    "english": "měilì"
+  },
+  {
+    "hanzi": "483",
+    "pinyin": "美食",
+    "english": "měi shí"
+  },
+  {
+    "hanzi": "484",
+    "pinyin": "美术",
+    "english": "měishù"
+  },
+  {
+    "hanzi": "485",
+    "pinyin": "美元",
+    "english": "měi yuán"
+  },
+  {
+    "hanzi": "486",
+    "pinyin": "迷",
+    "english": "mí"
+  },
+  {
+    "hanzi": "487",
+    "pinyin": "米（名）",
+    "english": "mǐ"
+  },
+  {
+    "hanzi": "488",
+    "pinyin": "面对",
+    "english": "miànduì"
+  },
+  {
+    "hanzi": "489",
+    "pinyin": "面积",
+    "english": "miànjī"
+  },
+  {
+    "hanzi": "490",
+    "pinyin": "民间",
+    "english": "mínjiān"
+  },
+  {
+    "hanzi": "491",
+    "pinyin": "民族",
+    "english": "mínzú"
+  },
+  {
+    "hanzi": "492",
+    "pinyin": "明确",
+    "english": "míngquè"
+  },
+  {
+    "hanzi": "493",
+    "pinyin": "明显",
+    "english": "míngxiǎn"
+  },
+  {
+    "hanzi": "494",
+    "pinyin": "命运",
+    "english": "mìngyùn"
+  },
+  {
+    "hanzi": "495",
+    "pinyin": "某",
+    "english": "mǒu"
+  },
+  {
+    "hanzi": "496",
+    "pinyin": "母亲",
+    "english": "mǔqīn"
+  },
+  {
+    "hanzi": "497",
+    "pinyin": "木头",
+    "english": "mùtou"
+  },
+  {
+    "hanzi": "498",
+    "pinyin": "目标",
+    "english": "mùbiāo"
+  },
+  {
+    "hanzi": "499",
+    "pinyin": "目前",
+    "english": "mùqián"
+  },
+  {
+    "hanzi": "500",
+    "pinyin": "奶茶",
+    "english": "nǎi chá"
+  },
+  {
+    "hanzi": "501",
+    "pinyin": "男子",
+    "english": "nán zǐ"
+  },
+  {
+    "hanzi": "502",
+    "pinyin": "南部",
+    "english": "nán bù"
+  },
+  {
+    "hanzi": "503",
+    "pinyin": "难道",
+    "english": "nándào"
+  },
+  {
+    "hanzi": "504",
+    "pinyin": "难度",
+    "english": "nán dù"
+  },
+  {
+    "hanzi": "505",
+    "pinyin": "内",
+    "english": "nèi"
+  },
+  {
+    "hanzi": "506",
+    "pinyin": "内容",
+    "english": "nèiróng"
+  },
+  {
+    "hanzi": "507",
+    "pinyin": "内心",
+    "english": "nèi xīn"
+  },
+  {
+    "hanzi": "508",
+    "pinyin": "能不能",
+    "english": "néng bù néng"
+  },
+  {
+    "hanzi": "509",
+    "pinyin": "能力",
+    "english": "nénglì"
+  },
+  {
+    "hanzi": "510",
+    "pinyin": "年初",
+    "english": "nián chū"
+  },
+  {
+    "hanzi": "511",
+    "pinyin": "年代",
+    "english": "niándài"
+  },
+  {
+    "hanzi": "512",
+    "pinyin": "年底",
+    "english": "nián dǐ"
+  },
+  {
+    "hanzi": "513",
+    "pinyin": "年纪",
+    "english": "niánjì"
+  },
+  {
+    "hanzi": "514",
+    "pinyin": "念",
+    "english": "niàn"
+  },
+  {
+    "hanzi": "515",
+    "pinyin": "牛（名）",
+    "english": "niú"
+  },
+  {
+    "hanzi": "516",
+    "pinyin": "农村",
+    "english": "nóngcūn"
+  },
+  {
+    "hanzi": "517",
+    "pinyin": "农民",
+    "english": "nóngmín"
+  },
+  {
+    "hanzi": "518",
+    "pinyin": "农业",
+    "english": "nóngyè"
+  },
+  {
+    "hanzi": "519",
+    "pinyin": "女子",
+    "english": "nǚ zǐ"
+  },
+  {
+    "hanzi": "520",
+    "pinyin": "暖和",
+    "english": "nuǎnhuo"
+  },
+  {
+    "hanzi": "521",
+    "pinyin": "怕（副）",
+    "english": "pà"
+  },
+  {
+    "hanzi": "522",
+    "pinyin": "拍",
+    "english": "pāi"
+  },
+  {
+    "hanzi": "523",
+    "pinyin": "排（动）",
+    "english": "pái"
+  },
+  {
+    "hanzi": "524",
+    "pinyin": "排名",
+    "english": "pái míng"
+  },
+  {
+    "hanzi": "525",
+    "pinyin": "牌子",
+    "english": "pái zi"
+  },
+  {
+    "hanzi": "526",
+    "pinyin": "派",
+    "english": "pài"
+  },
+  {
+    "hanzi": "527",
+    "pinyin": "判断",
+    "english": "pànduàn"
+  },
+  {
+    "hanzi": "528",
+    "pinyin": "胖",
+    "english": "pàng"
+  },
+  {
+    "hanzi": "529",
+    "pinyin": "跑步",
+    "english": "pǎobù"
+  },
+  {
+    "hanzi": "530",
+    "pinyin": "配",
+    "english": "pèi"
+  },
+  {
+    "hanzi": "531",
+    "pinyin": "配合",
+    "english": "pèihé"
+  },
+  {
+    "hanzi": "532",
+    "pinyin": "批评",
+    "english": "pīpíng"
+  },
+  {
+    "hanzi": "533",
+    "pinyin": "批准",
+    "english": "pīzhǔn"
+  },
+  {
+    "hanzi": "534",
+    "pinyin": "皮",
+    "english": "pí"
+  },
+  {
+    "hanzi": "535",
+    "pinyin": "皮包",
+    "english": "pí bāo"
+  },
+  {
+    "hanzi": "536",
+    "pinyin": "啤酒",
+    "english": "píjiǔ"
+  },
+  {
+    "hanzi": "537",
+    "pinyin": "票价",
+    "english": "piào jià"
+  },
+  {
+    "hanzi": "538",
+    "pinyin": "评价",
+    "english": "píngjià"
+  },
+  {
+    "hanzi": "539",
+    "pinyin": "苹果",
+    "english": "píngguǒ"
+  },
+  {
+    "hanzi": "540",
+    "pinyin": "破",
+    "english": "pò"
+  },
+  {
+    "hanzi": "541",
+    "pinyin": "破坏",
+    "english": "pòhuài"
+  },
+  {
+    "hanzi": "542",
+    "pinyin": "普遍",
+    "english": "pǔbiàn"
+  },
+  {
+    "hanzi": "543",
+    "pinyin": "普及",
+    "english": "pǔjí"
+  },
+  {
+    "hanzi": "544",
+    "pinyin": "期",
+    "english": "qī"
+  },
+  {
+    "hanzi": "545",
+    "pinyin": "齐",
+    "english": "qí"
+  },
+  {
+    "hanzi": "546",
+    "pinyin": "其次",
+    "english": "qícì"
+  },
+  {
+    "hanzi": "547",
+    "pinyin": "其实",
+    "english": "qíshí"
+  },
+  {
+    "hanzi": "548",
+    "pinyin": "奇怪",
+    "english": "qíguài"
+  },
+  {
+    "hanzi": "549",
+    "pinyin": "气候",
+    "english": "qìhòu"
+  },
+  {
+    "hanzi": "550",
+    "pinyin": "千万",
+    "english": "qiānwàn"
+  },
+  {
+    "hanzi": "551",
+    "pinyin": "前后",
+    "english": "qián hòu"
+  },
+  {
+    "hanzi": "552",
+    "pinyin": "前进",
+    "english": "qián jìn"
+  },
+  {
+    "hanzi": "553",
+    "pinyin": "前面",
+    "english": "qiánmiàn"
+  },
+  {
+    "hanzi": "554",
+    "pinyin": "前往",
+    "english": "qián wǎng"
+  },
+  {
+    "hanzi": "555",
+    "pinyin": "强",
+    "english": "qiáng"
+  },
+  {
+    "hanzi": "556",
+    "pinyin": "强大",
+    "english": "qiáng dà"
+  },
+  {
+    "hanzi": "557",
+    "pinyin": "强调",
+    "english": "qiángdiào"
+  },
+  {
+    "hanzi": "558",
+    "pinyin": "强烈",
+    "english": "qiángliè"
+  },
+  {
+    "hanzi": "559",
+    "pinyin": "桥",
+    "english": "qiáo"
+  },
+  {
+    "hanzi": "560",
+    "pinyin": "巧",
+    "english": "qiǎo"
+  },
+  {
+    "hanzi": "561",
+    "pinyin": "亲",
+    "english": "qīn"
+  },
+  {
+    "hanzi": "562",
+    "pinyin": "亲切",
+    "english": "qīnqiè"
+  },
+  {
+    "hanzi": "563",
+    "pinyin": "亲人",
+    "english": "qīn rén"
+  },
+  {
+    "hanzi": "564",
+    "pinyin": "亲自",
+    "english": "qīnzì"
+  },
+  {
+    "hanzi": "565",
+    "pinyin": "情感",
+    "english": "qíng gǎn"
+  },
+  {
+    "hanzi": "566",
+    "pinyin": "情况",
+    "english": "qíngkuàng"
+  },
+  {
+    "hanzi": "567",
+    "pinyin": "请教",
+    "english": "qǐngjiào"
+  },
+  {
+    "hanzi": "568",
+    "pinyin": "庆祝",
+    "english": "qìngzhù"
+  },
+  {
+    "hanzi": "569",
+    "pinyin": "球迷",
+    "english": "qiúmí"
+  },
+  {
+    "hanzi": "570",
+    "pinyin": "区",
+    "english": "qū"
+  },
+  {
+    "hanzi": "571",
+    "pinyin": "区别",
+    "english": "qūbié"
+  },
+  {
+    "hanzi": "572",
+    "pinyin": "取消",
+    "english": "qǔxiāo"
+  },
+  {
+    "hanzi": "573",
+    "pinyin": "去世",
+    "english": "qùshì"
+  },
+  {
+    "hanzi": "574",
+    "pinyin": "全场",
+    "english": "quán chǎng"
+  },
+  {
+    "hanzi": "575",
+    "pinyin": "全面",
+    "english": "quánmiàn"
+  },
+  {
+    "hanzi": "576",
+    "pinyin": "全球",
+    "english": "quán qiú"
+  },
+  {
+    "hanzi": "577",
+    "pinyin": "缺",
+    "english": "quē"
+  },
+  {
+    "hanzi": "578",
+    "pinyin": "缺点",
+    "english": "quēdiǎn"
+  },
+  {
+    "hanzi": "579",
+    "pinyin": "缺少",
+    "english": "quēshǎo"
+  },
+  {
+    "hanzi": "580",
+    "pinyin": "确保",
+    "english": "quèbǎo"
+  },
+  {
+    "hanzi": "581",
+    "pinyin": "确定",
+    "english": "quèdìng"
+  },
+  {
+    "hanzi": "582",
+    "pinyin": "确实",
+    "english": "quèshí"
+  },
+  {
+    "hanzi": "583",
+    "pinyin": "裙子",
+    "english": "qúnzi"
+  },
+  {
+    "hanzi": "584",
+    "pinyin": "群",
+    "english": "qún"
+  },
+  {
+    "hanzi": "585",
+    "pinyin": "热爱",
+    "english": "rè’ài"
+  },
+  {
+    "hanzi": "586",
+    "pinyin": "热烈",
+    "english": "rèliè"
+  },
+  {
+    "hanzi": "587",
+    "pinyin": "人才",
+    "english": "réncái"
+  },
+  {
+    "hanzi": "588",
+    "pinyin": "人工",
+    "english": "réngōng"
+  },
+  {
+    "hanzi": "589",
+    "pinyin": "人类",
+    "english": "rénlèi"
+  },
+  {
+    "hanzi": "590",
+    "pinyin": "人民",
+    "english": "rén mín"
+  },
+  {
+    "hanzi": "591",
+    "pinyin": "人民币",
+    "english": "rénmínbì"
+  },
+  {
+    "hanzi": "592",
+    "pinyin": "人群",
+    "english": "rén qún"
+  },
+  {
+    "hanzi": "593",
+    "pinyin": "人生",
+    "english": "rénshēng"
+  },
+  {
+    "hanzi": "594",
+    "pinyin": "人员",
+    "english": "rényuán"
+  },
+  {
+    "hanzi": "595",
+    "pinyin": "认出",
+    "english": "rèn chū"
+  },
+  {
+    "hanzi": "596",
+    "pinyin": "认得",
+    "english": "rèn dé"
+  },
+  {
+    "hanzi": "597",
+    "pinyin": "认可",
+    "english": "rènkě"
+  },
+  {
+    "hanzi": "598",
+    "pinyin": "任（动）",
+    "english": "rèn"
+  },
+  {
+    "hanzi": "599",
+    "pinyin": "任（连）",
+    "english": "rèn"
+  },
+  {
+    "hanzi": "600",
+    "pinyin": "任何",
+    "english": "rènhé"
+  },
+  {
+    "hanzi": "601",
+    "pinyin": "任务",
+    "english": "rènwu"
+  },
+  {
+    "hanzi": "602",
+    "pinyin": "仍",
+    "english": "réng"
+  },
+  {
+    "hanzi": "603",
+    "pinyin": "仍然",
+    "english": "réngrán"
+  },
+  {
+    "hanzi": "604",
+    "pinyin": "日常",
+    "english": "rìcháng"
+  },
+  {
+    "hanzi": "605",
+    "pinyin": "容易",
+    "english": "róngyì"
+  },
+  {
+    "hanzi": "606",
+    "pinyin": "如何",
+    "english": "rúhé"
+  },
+  {
+    "hanzi": "607",
+    "pinyin": "散步",
+    "english": "sànbù"
+  },
+  {
+    "hanzi": "608",
+    "pinyin": "沙发",
+    "english": "shāfā"
+  },
+  {
+    "hanzi": "609",
+    "pinyin": "沙子",
+    "english": "shā zi"
+  },
+  {
+    "hanzi": "610",
+    "pinyin": "伤",
+    "english": "shāng"
+  },
+  {
+    "hanzi": "611",
+    "pinyin": "伤心",
+    "english": "shāngxīn"
+  },
+  {
+    "hanzi": "612",
+    "pinyin": "商品",
+    "english": "shāngpǐn"
+  },
+  {
+    "hanzi": "613",
+    "pinyin": "商业",
+    "english": "shāngyè"
+  },
+  {
+    "hanzi": "614",
+    "pinyin": "上来",
+    "english": "shàng lái"
+  },
+  {
+    "hanzi": "615",
+    "pinyin": "上面",
+    "english": "shàng miàn"
+  },
+  {
+    "hanzi": "616",
+    "pinyin": "上去",
+    "english": "shàng qù"
+  },
+  {
+    "hanzi": "617",
+    "pinyin": "上升",
+    "english": "shàng shēng"
+  },
+  {
+    "hanzi": "618",
+    "pinyin": "上衣",
+    "english": "shàng yī"
+  },
+  {
+    "hanzi": "619",
+    "pinyin": "设备",
+    "english": "shèbèi"
+  },
+  {
+    "hanzi": "620",
+    "pinyin": "设计",
+    "english": "shèjì"
+  },
+  {
+    "hanzi": "621",
+    "pinyin": "设立",
+    "english": "shèlì"
+  },
+  {
+    "hanzi": "622",
+    "pinyin": "社会",
+    "english": "shèhuì"
+  },
+  {
+    "hanzi": "623",
+    "pinyin": "身份证",
+    "english": "shēn fèn zhèng"
+  },
+  {
+    "hanzi": "624",
+    "pinyin": "深",
+    "english": "shēn"
+  },
+  {
+    "hanzi": "625",
+    "pinyin": "深刻",
+    "english": "shēnkè"
+  },
+  {
+    "hanzi": "626",
+    "pinyin": "深入",
+    "english": "shēn rù"
+  },
+  {
+    "hanzi": "627",
+    "pinyin": "升",
+    "english": "shēng"
+  },
+  {
+    "hanzi": "628",
+    "pinyin": "生（形）",
+    "english": "shēng"
+  },
+  {
+    "hanzi": "629",
+    "pinyin": "生产",
+    "english": "shēngchǎn"
+  },
+  {
+    "hanzi": "630",
+    "pinyin": "生存",
+    "english": "shēngcún"
+  },
+  {
+    "hanzi": "631",
+    "pinyin": "生动",
+    "english": "shēngdòng"
+  },
+  {
+    "hanzi": "632",
+    "pinyin": "生命",
+    "english": "shēngmìng"
+  },
+  {
+    "hanzi": "633",
+    "pinyin": "生意",
+    "english": "shēngyi"
+  },
+  {
+    "hanzi": "634",
+    "pinyin": "生长",
+    "english": "shēngzhǎng"
+  },
+  {
+    "hanzi": "635",
+    "pinyin": "声明",
+    "english": "shēngmíng"
+  },
+  {
+    "hanzi": "636",
+    "pinyin": "胜",
+    "english": "shèng"
+  },
+  {
+    "hanzi": "637",
+    "pinyin": "胜利",
+    "english": "shènglì"
+  },
+  {
+    "hanzi": "638",
+    "pinyin": "失去",
+    "english": "shīqù"
+  },
+  {
+    "hanzi": "639",
+    "pinyin": "石头",
+    "english": "shítou"
+  },
+  {
+    "hanzi": "640",
+    "pinyin": "石油",
+    "english": "shíyóu"
+  },
+  {
+    "hanzi": "641",
+    "pinyin": "时",
+    "english": "shí"
+  },
+  {
+    "hanzi": "642",
+    "pinyin": "时代",
+    "english": "shídài"
+  },
+  {
+    "hanzi": "643",
+    "pinyin": "时刻",
+    "english": "shíkè"
+  },
+  {
+    "hanzi": "644",
+    "pinyin": "实际上",
+    "english": "shí jì shàng"
+  },
+  {
+    "hanzi": "645",
+    "pinyin": "实力",
+    "english": "shílì"
+  },
+  {
+    "hanzi": "646",
+    "pinyin": "实行",
+    "english": "shíxíng"
+  },
+  {
+    "hanzi": "647",
+    "pinyin": "实验",
+    "english": "shíyàn"
+  },
+  {
+    "hanzi": "648",
+    "pinyin": "实验室",
+    "english": "shí yàn shì"
+  },
+  {
+    "hanzi": "649",
+    "pinyin": "食品",
+    "english": "shí pǐn"
+  },
+  {
+    "hanzi": "650",
+    "pinyin": "使",
+    "english": "shǐ"
+  },
+  {
+    "hanzi": "651",
+    "pinyin": "始终",
+    "english": "shǐzhōng"
+  },
+  {
+    "hanzi": "652",
+    "pinyin": "世纪",
+    "english": "shìjì"
+  },
+  {
+    "hanzi": "653",
+    "pinyin": "世界",
+    "english": "shìjiè"
+  },
+  {
+    "hanzi": "654",
+    "pinyin": "世界杯",
+    "english": "shì jiè bēi"
+  },
+  {
+    "hanzi": "655",
+    "pinyin": "市场",
+    "english": "shìchǎng"
+  },
+  {
+    "hanzi": "656",
+    "pinyin": "事故",
+    "english": "shìgù"
+  },
+  {
+    "hanzi": "657",
+    "pinyin": "事件",
+    "english": "shìjiàn"
+  },
+  {
+    "hanzi": "658",
+    "pinyin": "事实",
+    "english": "shìshí"
+  },
+  {
+    "hanzi": "659",
+    "pinyin": "事实上",
+    "english": "shì shí shàng"
+  },
+  {
+    "hanzi": "660",
+    "pinyin": "事业",
+    "english": "shìyè"
+  },
+  {
+    "hanzi": "661",
+    "pinyin": "试题",
+    "english": "shì tí"
+  },
+  {
+    "hanzi": "662",
+    "pinyin": "试验",
+    "english": "shìyàn"
+  },
+  {
+    "hanzi": "663",
+    "pinyin": "适合",
+    "english": "shìhé"
+  },
+  {
+    "hanzi": "664",
+    "pinyin": "适应",
+    "english": "shìyìng"
+  },
+  {
+    "hanzi": "665",
+    "pinyin": "适用",
+    "english": "shì yòng"
+  },
+  {
+    "hanzi": "666",
+    "pinyin": "室",
+    "english": "shì"
+  },
+  {
+    "hanzi": "667",
+    "pinyin": "收费",
+    "english": "shōu fèi"
+  },
+  {
+    "hanzi": "668",
+    "pinyin": "收看",
+    "english": "shōu kàn"
+  },
+  {
+    "hanzi": "669",
+    "pinyin": "收听",
+    "english": "shōu tīng"
+  },
+  {
+    "hanzi": "670",
+    "pinyin": "收音机",
+    "english": "shōuyīnjī"
+  },
+  {
+    "hanzi": "671",
+    "pinyin": "手续",
+    "english": "shǒuxù"
+  },
+  {
+    "hanzi": "672",
+    "pinyin": "手指",
+    "english": "shǒuzhǐ"
+  },
+  {
+    "hanzi": "673",
+    "pinyin": "首都",
+    "english": "shǒudū"
+  },
+  {
+    "hanzi": "674",
+    "pinyin": "首先",
+    "english": "shǒuxiān"
+  },
+  {
+    "hanzi": "675",
+    "pinyin": "受",
+    "english": "shòu"
+  },
+  {
+    "hanzi": "676",
+    "pinyin": "受伤",
+    "english": "shòushāng"
+  },
+  {
+    "hanzi": "677",
+    "pinyin": "书架",
+    "english": "shūjià"
+  },
+  {
+    "hanzi": "678",
+    "pinyin": "输",
+    "english": "shū"
+  },
+  {
+    "hanzi": "679",
+    "pinyin": "输入",
+    "english": "shūrù"
+  },
+  {
+    "hanzi": "680",
+    "pinyin": "熟人",
+    "english": "shú rén"
+  },
+  {
+    "hanzi": "681",
+    "pinyin": "属",
+    "english": "shǔ"
+  },
+  {
+    "hanzi": "682",
+    "pinyin": "属于",
+    "english": "shǔyú"
+  },
+  {
+    "hanzi": "683",
+    "pinyin": "束",
+    "english": "shù"
+  },
+  {
+    "hanzi": "684",
+    "pinyin": "数量",
+    "english": "shùliàng"
+  },
+  {
+    "hanzi": "685",
+    "pinyin": "双",
+    "english": "shuāng"
+  },
+  {
+    "hanzi": "686",
+    "pinyin": "双方",
+    "english": "shuāngfāng"
+  },
+  {
+    "hanzi": "687",
+    "pinyin": "思想",
+    "english": "sīxiǎng"
+  },
+  {
+    "hanzi": "688",
+    "pinyin": "死",
+    "english": "sǐ"
+  },
+  {
+    "hanzi": "689",
+    "pinyin": "速度",
+    "english": "sùdù"
+  },
+  {
+    "hanzi": "690",
+    "pinyin": "随",
+    "english": "suí"
+  },
+  {
+    "hanzi": "691",
+    "pinyin": "所（名、量）",
+    "english": "suǒ"
+  },
+  {
+    "hanzi": "692",
+    "pinyin": "所长",
+    "english": "suǒ zhǎng"
+  },
+  {
+    "hanzi": "693",
+    "pinyin": "台",
+    "english": "tái"
+  },
+  {
+    "hanzi": "694",
+    "pinyin": "谈",
+    "english": "tán"
+  },
+  {
+    "hanzi": "695",
+    "pinyin": "谈话",
+    "english": "tán huà"
+  },
+  {
+    "hanzi": "696",
+    "pinyin": "谈判",
+    "english": "tánpàn"
+  },
+  {
+    "hanzi": "697",
+    "pinyin": "汤",
+    "english": "tāng"
+  },
+  {
+    "hanzi": "698",
+    "pinyin": "糖",
+    "english": "táng"
+  },
+  {
+    "hanzi": "699",
+    "pinyin": "特色",
+    "english": "tèsè"
+  },
+  {
+    "hanzi": "700",
+    "pinyin": "提前",
+    "english": "tíqián"
+  },
+  {
+    "hanzi": "701",
+    "pinyin": "提问",
+    "english": "tíwèn"
+  },
+  {
+    "hanzi": "702",
+    "pinyin": "题目",
+    "english": "tímù"
+  },
+  {
+    "hanzi": "703",
+    "pinyin": "体会",
+    "english": "tǐhuì"
+  },
+  {
+    "hanzi": "704",
+    "pinyin": "体现",
+    "english": "tǐxiàn"
+  },
+  {
+    "hanzi": "705",
+    "pinyin": "体验",
+    "english": "tǐyàn"
+  },
+  {
+    "hanzi": "706",
+    "pinyin": "天空",
+    "english": "tiānkōng"
+  },
+  {
+    "hanzi": "707",
+    "pinyin": "甜",
+    "english": "tián"
+  },
+  {
+    "hanzi": "708",
+    "pinyin": "调",
+    "english": "tiáo"
+  },
+  {
+    "hanzi": "709",
+    "pinyin": "调整",
+    "english": "tiáozhěng"
+  },
+  {
+    "hanzi": "710",
+    "pinyin": "跳",
+    "english": "tiào"
+  },
+  {
+    "hanzi": "711",
+    "pinyin": "跳高",
+    "english": "tiào gāo"
+  },
+  {
+    "hanzi": "712",
+    "pinyin": "跳舞",
+    "english": "tiàowǔ"
+  },
+  {
+    "hanzi": "713",
+    "pinyin": "跳远",
+    "english": "tiào yuǎn"
+  },
+  {
+    "hanzi": "714",
+    "pinyin": "铁",
+    "english": "tiě"
+  },
+  {
+    "hanzi": "715",
+    "pinyin": "铁路",
+    "english": "tiě lù"
+  },
+  {
+    "hanzi": "716",
+    "pinyin": "听力",
+    "english": "tīng lì"
+  },
+  {
+    "hanzi": "717",
+    "pinyin": "听众",
+    "english": "tīng zhòng"
+  },
+  {
+    "hanzi": "718",
+    "pinyin": "停止",
+    "english": "tíng zhǐ"
+  },
+  {
+    "hanzi": "719",
+    "pinyin": "通常",
+    "english": "tōngcháng"
+  },
+  {
+    "hanzi": "720",
+    "pinyin": "通信",
+    "english": "tōng xìn"
+  },
+  {
+    "hanzi": "721",
+    "pinyin": "同意",
+    "english": "tóngyì"
+  },
+  {
+    "hanzi": "722",
+    "pinyin": "痛（形）",
+    "english": "tòng"
+  },
+  {
+    "hanzi": "723",
+    "pinyin": "痛苦",
+    "english": "tòngkǔ"
+  },
+  {
+    "hanzi": "724",
+    "pinyin": "头（形）",
+    "english": "tóu"
+  },
+  {
+    "hanzi": "725",
+    "pinyin": "头脑",
+    "english": "tóu nǎo"
+  },
+  {
+    "hanzi": "726",
+    "pinyin": "突出",
+    "english": "tūchū"
+  },
+  {
+    "hanzi": "727",
+    "pinyin": "突然",
+    "english": "tūrán"
+  },
+  {
+    "hanzi": "728",
+    "pinyin": "图",
+    "english": "tú"
+  },
+  {
+    "hanzi": "729",
+    "pinyin": "图画",
+    "english": "tú huà"
+  },
+  {
+    "hanzi": "730",
+    "pinyin": "土（名）",
+    "english": "tǔ"
+  },
+  {
+    "hanzi": "731",
+    "pinyin": "团",
+    "english": "tuán"
+  },
+  {
+    "hanzi": "732",
+    "pinyin": "团结",
+    "english": "tuánjié"
+  },
+  {
+    "hanzi": "733",
+    "pinyin": "团体",
+    "english": "tuántǐ"
+  },
+  {
+    "hanzi": "734",
+    "pinyin": "推动",
+    "english": "tuī dòng"
+  },
+  {
+    "hanzi": "735",
+    "pinyin": "推广",
+    "english": "tuīguǎng"
+  },
+  {
+    "hanzi": "736",
+    "pinyin": "推进",
+    "english": "tuī jìn"
+  },
+  {
+    "hanzi": "737",
+    "pinyin": "推开",
+    "english": "tuī kāi"
+  },
+  {
+    "hanzi": "738",
+    "pinyin": "退",
+    "english": "tuì"
+  },
+  {
+    "hanzi": "739",
+    "pinyin": "退出",
+    "english": "tuì chū"
+  },
+  {
+    "hanzi": "740",
+    "pinyin": "退休",
+    "english": "tuìxiū"
+  },
+  {
+    "hanzi": "741",
+    "pinyin": "外交",
+    "english": "wàijiāo"
+  },
+  {
+    "hanzi": "742",
+    "pinyin": "外面",
+    "english": "wài miàn"
+  },
+  {
+    "hanzi": "743",
+    "pinyin": "外文",
+    "english": "wài wén"
+  },
+  {
+    "hanzi": "744",
+    "pinyin": "完美",
+    "english": "wánměi"
+  },
+  {
+    "hanzi": "745",
+    "pinyin": "完善",
+    "english": "wánshàn"
+  },
+  {
+    "hanzi": "746",
+    "pinyin": "完整",
+    "english": "wánzhěng"
+  },
+  {
+    "hanzi": "747",
+    "pinyin": "玩具",
+    "english": "wánjù"
+  },
+  {
+    "hanzi": "748",
+    "pinyin": "往往",
+    "english": "wǎngwǎng"
+  },
+  {
+    "hanzi": "749",
+    "pinyin": "危害",
+    "english": "wēihài"
+  },
+  {
+    "hanzi": "750",
+    "pinyin": "危险",
+    "english": "wēixiǎn"
+  },
+  {
+    "hanzi": "751",
+    "pinyin": "为（动）",
+    "english": "wéi"
+  },
+  {
+    "hanzi": "752",
+    "pinyin": "为（介）",
+    "english": "wèi"
+  },
+  {
+    "hanzi": "753",
+    "pinyin": "围",
+    "english": "wéi"
+  },
+  {
+    "hanzi": "754",
+    "pinyin": "伟大",
+    "english": "wěidà"
+  },
+  {
+    "hanzi": "755",
+    "pinyin": "卫生",
+    "english": "wèi shēng"
+  },
+  {
+    "hanzi": "756",
+    "pinyin": "卫生间",
+    "english": "wèishēngjiān"
+  },
+  {
+    "hanzi": "757",
+    "pinyin": "为了",
+    "english": "wèile"
+  },
+  {
+    "hanzi": "758",
+    "pinyin": "温暖",
+    "english": "wēnnuǎn"
+  },
+  {
+    "hanzi": "759",
+    "pinyin": "文化",
+    "english": "wénhuà"
+  },
+  {
+    "hanzi": "760",
+    "pinyin": "文件",
+    "english": "wénjiàn"
+  },
+  {
+    "hanzi": "761",
+    "pinyin": "文明",
+    "english": "wénmíng"
+  },
+  {
+    "hanzi": "762",
+    "pinyin": "文学",
+    "english": "wénxué"
+  },
+  {
+    "hanzi": "763",
+    "pinyin": "文章",
+    "english": "wénzhāng"
+  },
+  {
+    "hanzi": "764",
+    "pinyin": "文字",
+    "english": "wénzì"
+  },
+  {
+    "hanzi": "765",
+    "pinyin": "握手",
+    "english": "wòshǒu"
+  },
+  {
+    "hanzi": "766",
+    "pinyin": "屋子",
+    "english": "wūzi"
+  },
+  {
+    "hanzi": "767",
+    "pinyin": "武器",
+    "english": "wǔqì"
+  },
+  {
+    "hanzi": "768",
+    "pinyin": "武术",
+    "english": "wǔshù"
+  },
+  {
+    "hanzi": "769",
+    "pinyin": "舞台",
+    "english": "wǔ tái"
+  },
+  {
+    "hanzi": "770",
+    "pinyin": "西部",
+    "english": "xī bù"
+  },
+  {
+    "hanzi": "771",
+    "pinyin": "希望",
+    "english": "xīwàng"
+  },
+  {
+    "hanzi": "772",
+    "pinyin": "系",
+    "english": "xì"
+  },
+  {
+    "hanzi": "773",
+    "pinyin": "下来",
+    "english": "xià lái"
+  },
+  {
+    "hanzi": "774",
+    "pinyin": "下面",
+    "english": "xià miàn"
+  },
+  {
+    "hanzi": "775",
+    "pinyin": "下去",
+    "english": "xià qù"
+  },
+  {
+    "hanzi": "776",
+    "pinyin": "先进",
+    "english": "xiānjìn"
+  },
+  {
+    "hanzi": "777",
+    "pinyin": "显得",
+    "english": "xiǎnde"
+  },
+  {
+    "hanzi": "778",
+    "pinyin": "显然",
+    "english": "xiǎnrán"
+  },
+  {
+    "hanzi": "779",
+    "pinyin": "显示",
+    "english": "xiǎnshì"
+  },
+  {
+    "hanzi": "780",
+    "pinyin": "现场",
+    "english": "xiànchǎng"
+  },
+  {
+    "hanzi": "781",
+    "pinyin": "现代",
+    "english": "xiàndài"
+  },
+  {
+    "hanzi": "782",
+    "pinyin": "现金",
+    "english": "xiànjīn"
+  },
+  {
+    "hanzi": "783",
+    "pinyin": "现实",
+    "english": "xiànshí"
+  },
+  {
+    "hanzi": "784",
+    "pinyin": "现象",
+    "english": "xiànxiàng"
+  },
+  {
+    "hanzi": "785",
+    "pinyin": "线",
+    "english": "xiàn"
+  },
+  {
+    "hanzi": "786",
+    "pinyin": "相比",
+    "english": "xiāng bǐ"
+  },
+  {
+    "hanzi": "787",
+    "pinyin": "相当",
+    "english": "xiāngdāng"
+  },
+  {
+    "hanzi": "788",
+    "pinyin": "相关",
+    "english": "xiāngguān"
+  },
+  {
+    "hanzi": "789",
+    "pinyin": "相互",
+    "english": "xiāng hù"
+  },
+  {
+    "hanzi": "790",
+    "pinyin": "相似",
+    "english": "xiāngsì"
+  },
+  {
+    "hanzi": "791",
+    "pinyin": "香",
+    "english": "xiāng"
+  },
+  {
+    "hanzi": "792",
+    "pinyin": "香蕉",
+    "english": "xiāngjiāo"
+  },
+  {
+    "hanzi": "793",
+    "pinyin": "消费",
+    "english": "xiāofèi"
+  },
+  {
+    "hanzi": "794",
+    "pinyin": "消失",
+    "english": "xiāoshī"
+  },
+  {
+    "hanzi": "795",
+    "pinyin": "消息",
+    "english": "xiāoxi"
+  },
+  {
+    "hanzi": "796",
+    "pinyin": "效果",
+    "english": "xiàoguǒ"
+  },
+  {
+    "hanzi": "797",
+    "pinyin": "写作",
+    "english": "xiězuò"
+  },
+  {
+    "hanzi": "798",
+    "pinyin": "血",
+    "english": "xuè"
+  },
+  {
+    "hanzi": "799",
+    "pinyin": "心",
+    "english": "xīn"
+  },
+  {
+    "hanzi": "800",
+    "pinyin": "信（动）",
+    "english": "xìn"
+  },
+  {
+    "hanzi": "801",
+    "pinyin": "信封",
+    "english": "xìnfēng"
+  },
+  {
+    "hanzi": "802",
+    "pinyin": "信任",
+    "english": "xìnrèn"
+  },
+  {
+    "hanzi": "803",
+    "pinyin": "行李",
+    "english": "xíng lǐ"
+  },
+  {
+    "hanzi": "804",
+    "pinyin": "形成",
+    "english": "xíngchéng"
+  },
+  {
+    "hanzi": "805",
+    "pinyin": "形式",
+    "english": "xíngshì"
+  },
+  {
+    "hanzi": "806",
+    "pinyin": "形象",
+    "english": "xíngxiàng"
+  },
+  {
+    "hanzi": "807",
+    "pinyin": "形状",
+    "english": "xíngzhuàng"
+  },
+  {
+    "hanzi": "808",
+    "pinyin": "幸福",
+    "english": "xìngfú"
+  },
+  {
+    "hanzi": "809",
+    "pinyin": "幸运",
+    "english": "xìngyùn"
+  },
+  {
+    "hanzi": "810",
+    "pinyin": "性（积极性）",
+    "english": "xìng （jī jí xìng）"
+  },
+  {
+    "hanzi": "811",
+    "pinyin": "性别",
+    "english": "xìngbié"
+  },
+  {
+    "hanzi": "812",
+    "pinyin": "性格",
+    "english": "xìnggé"
+  },
+  {
+    "hanzi": "813",
+    "pinyin": "修",
+    "english": "xiū"
+  },
+  {
+    "hanzi": "814",
+    "pinyin": "修改",
+    "english": "xiūgǎi"
+  },
+  {
+    "hanzi": "815",
+    "pinyin": "需求",
+    "english": "xūqiú"
+  },
+  {
+    "hanzi": "816",
+    "pinyin": "需要",
+    "english": "xūyào"
+  },
+  {
+    "hanzi": "817",
+    "pinyin": "宣布",
+    "english": "xuānbù"
+  },
+  {
+    "hanzi": "818",
+    "pinyin": "宣传",
+    "english": "xuānchuán"
+  },
+  {
+    "hanzi": "819",
+    "pinyin": "选手",
+    "english": "xuǎnshǒu"
+  },
+  {
+    "hanzi": "820",
+    "pinyin": "学费",
+    "english": "xué fèi"
+  },
+  {
+    "hanzi": "821",
+    "pinyin": "训练",
+    "english": "xùnliàn"
+  },
+  {
+    "hanzi": "822",
+    "pinyin": "压",
+    "english": "yā"
+  },
+  {
+    "hanzi": "823",
+    "pinyin": "压力",
+    "english": "yālì"
+  },
+  {
+    "hanzi": "824",
+    "pinyin": "烟",
+    "english": "yān"
+  },
+  {
+    "hanzi": "825",
+    "pinyin": "眼前",
+    "english": "yǎn qián"
+  },
+  {
+    "hanzi": "826",
+    "pinyin": "演",
+    "english": "yǎn"
+  },
+  {
+    "hanzi": "827",
+    "pinyin": "演唱",
+    "english": "yǎn chàng"
+  },
+  {
+    "hanzi": "828",
+    "pinyin": "演唱会",
+    "english": "yǎn chàng huì"
+  },
+  {
+    "hanzi": "829",
+    "pinyin": "演出",
+    "english": "yǎnchū"
+  },
+  {
+    "hanzi": "830",
+    "pinyin": "演员",
+    "english": "yǎnyuán"
+  },
+  {
+    "hanzi": "831",
+    "pinyin": "羊",
+    "english": "yáng"
+  },
+  {
+    "hanzi": "832",
+    "pinyin": "阳光",
+    "english": "yángguāng"
+  },
+  {
+    "hanzi": "833",
+    "pinyin": "要是",
+    "english": "yàoshi"
+  },
+  {
+    "hanzi": "834",
+    "pinyin": "衣架",
+    "english": "yī jià"
+  },
+  {
+    "hanzi": "835",
+    "pinyin": "一切",
+    "english": "yíqiè"
+  },
+  {
+    "hanzi": "836",
+    "pinyin": "已",
+    "english": "yǐ"
+  },
+  {
+    "hanzi": "837",
+    "pinyin": "以来",
+    "english": "yǐlái"
+  },
+  {
+    "hanzi": "838",
+    "pinyin": "一方面",
+    "english": "yì fāng miàn"
+  },
+  {
+    "hanzi": "839",
+    "pinyin": "艺术",
+    "english": "yìshù"
+  },
+  {
+    "hanzi": "840",
+    "pinyin": "意外",
+    "english": "yìwài"
+  },
+  {
+    "hanzi": "841",
+    "pinyin": "意义",
+    "english": "yìyì"
+  },
+  {
+    "hanzi": "842",
+    "pinyin": "因此",
+    "english": "yīncǐ"
+  },
+  {
+    "hanzi": "843",
+    "pinyin": "银",
+    "english": "yín"
+  },
+  {
+    "hanzi": "844",
+    "pinyin": "银牌",
+    "english": "yín pái"
+  },
+  {
+    "hanzi": "845",
+    "pinyin": "印象",
+    "english": "yìnxiàng"
+  },
+  {
+    "hanzi": "846",
+    "pinyin": "应当",
+    "english": "yīng dāng"
+  },
+  {
+    "hanzi": "847",
+    "pinyin": "迎接",
+    "english": "yíngjiē"
+  },
+  {
+    "hanzi": "848",
+    "pinyin": "营养",
+    "english": "yíngyǎng"
+  },
+  {
+    "hanzi": "849",
+    "pinyin": "赢",
+    "english": "yíng"
+  },
+  {
+    "hanzi": "850",
+    "pinyin": "影视",
+    "english": "yǐng shì"
+  },
+  {
+    "hanzi": "851",
+    "pinyin": "应用",
+    "english": "yìngyòng"
+  },
+  {
+    "hanzi": "852",
+    "pinyin": "优点",
+    "english": "yōudiǎn"
+  },
+  {
+    "hanzi": "853",
+    "pinyin": "优势",
+    "english": "yōushì"
+  },
+  {
+    "hanzi": "854",
+    "pinyin": "由",
+    "english": "yóu"
+  },
+  {
+    "hanzi": "855",
+    "pinyin": "由于",
+    "english": "yóuyú"
+  },
+  {
+    "hanzi": "856",
+    "pinyin": "邮件",
+    "english": "yóu jiàn"
+  },
+  {
+    "hanzi": "857",
+    "pinyin": "邮票",
+    "english": "yóu piào"
+  },
+  {
+    "hanzi": "858",
+    "pinyin": "邮箱",
+    "english": "yóu xiāng"
+  },
+  {
+    "hanzi": "859",
+    "pinyin": "游",
+    "english": "yóu"
+  },
+  {
+    "hanzi": "860",
+    "pinyin": "游戏",
+    "english": "yóuxì"
+  },
+  {
+    "hanzi": "861",
+    "pinyin": "游泳",
+    "english": "yóuyǒng"
+  },
+  {
+    "hanzi": "862",
+    "pinyin": "有的是",
+    "english": "yǒu de shì"
+  },
+  {
+    "hanzi": "863",
+    "pinyin": "有利",
+    "english": "yǒulì"
+  },
+  {
+    "hanzi": "864",
+    "pinyin": "有效",
+    "english": "yǒu xiào"
+  },
+  {
+    "hanzi": "865",
+    "pinyin": "预报",
+    "english": "yùbào"
+  },
+  {
+    "hanzi": "866",
+    "pinyin": "预防",
+    "english": "yùfáng"
+  },
+  {
+    "hanzi": "867",
+    "pinyin": "预计",
+    "english": "yù jì"
+  },
+  {
+    "hanzi": "868",
+    "pinyin": "预习",
+    "english": "yùxí"
+  },
+  {
+    "hanzi": "869",
+    "pinyin": "员（服务员）",
+    "english": "yuán （fú wù yuán）"
+  },
+  {
+    "hanzi": "870",
+    "pinyin": "员工",
+    "english": "yuángōng"
+  },
+  {
+    "hanzi": "871",
+    "pinyin": "愿望",
+    "english": "yuànwàng"
+  },
+  {
+    "hanzi": "872",
+    "pinyin": "约",
+    "english": "yuē"
+  },
+  {
+    "hanzi": "873",
+    "pinyin": "乐队",
+    "english": "yuè duì"
+  },
+  {
+    "hanzi": "874",
+    "pinyin": "运输",
+    "english": "yùnshū"
+  },
+  {
+    "hanzi": "875",
+    "pinyin": "杂志",
+    "english": "zázhì"
+  },
+  {
+    "hanzi": "876",
+    "pinyin": "早已",
+    "english": "zǎo yǐ"
+  },
+  {
+    "hanzi": "877",
+    "pinyin": "造",
+    "english": "zào"
+  },
+  {
+    "hanzi": "878",
+    "pinyin": "造成",
+    "english": "zàochéng"
+  },
+  {
+    "hanzi": "879",
+    "pinyin": "责任",
+    "english": "zérèn"
+  },
+  {
+    "hanzi": "880",
+    "pinyin": "增加",
+    "english": "zēngjiā"
+  },
+  {
+    "hanzi": "881",
+    "pinyin": "增长",
+    "english": "zēng zhǎng"
+  },
+  {
+    "hanzi": "882",
+    "pinyin": "展开",
+    "english": "zhǎnkāi"
+  },
+  {
+    "hanzi": "883",
+    "pinyin": "张",
+    "english": "zhāng"
+  },
+  {
+    "hanzi": "884",
+    "pinyin": "照",
+    "english": "zhào"
+  },
+  {
+    "hanzi": "885",
+    "pinyin": "者（志愿者）",
+    "english": "zhě （zhì yuàn zhě）"
+  },
+  {
+    "hanzi": "886",
+    "pinyin": "真实",
+    "english": "zhēnshí"
+  },
+  {
+    "hanzi": "887",
+    "pinyin": "争",
+    "english": "zhēng"
+  },
+  {
+    "hanzi": "888",
+    "pinyin": "争取",
+    "english": "zhēngqǔ"
+  },
+  {
+    "hanzi": "889",
+    "pinyin": "整",
+    "english": "zhěng"
+  },
+  {
+    "hanzi": "890",
+    "pinyin": "整个",
+    "english": "zhěnggè"
+  },
+  {
+    "hanzi": "891",
+    "pinyin": "整理",
+    "english": "zhěnglǐ"
+  },
+  {
+    "hanzi": "892",
+    "pinyin": "整齐",
+    "english": "zhěngqí"
+  },
+  {
+    "hanzi": "893",
+    "pinyin": "整体",
+    "english": "zhěngtǐ"
+  },
+  {
+    "hanzi": "894",
+    "pinyin": "整天",
+    "english": "zhěng tiān"
+  },
+  {
+    "hanzi": "895",
+    "pinyin": "整整",
+    "english": "zhěng zhěng"
+  },
+  {
+    "hanzi": "896",
+    "pinyin": "正（形）",
+    "english": "zhèng"
+  },
+  {
+    "hanzi": "897",
+    "pinyin": "正式",
+    "english": "zhèngshì"
+  },
+  {
+    "hanzi": "898",
+    "pinyin": "证",
+    "english": "zhèng"
+  },
+  {
+    "hanzi": "899",
+    "pinyin": "证件",
+    "english": "zhèngjiàn"
+  },
+  {
+    "hanzi": "900",
+    "pinyin": "证据",
+    "english": "zhèngjù"
+  },
+  {
+    "hanzi": "901",
+    "pinyin": "证明",
+    "english": "zhèngmíng"
+  },
+  {
+    "hanzi": "902",
+    "pinyin": "支（量）",
+    "english": "zhī"
+  },
+  {
+    "hanzi": "903",
+    "pinyin": "支持",
+    "english": "zhīchí"
+  },
+  {
+    "hanzi": "904",
+    "pinyin": "支付",
+    "english": "zhī fù"
+  },
+  {
+    "hanzi": "905",
+    "pinyin": "只",
+    "english": "zhī"
+  },
+  {
+    "hanzi": "906",
+    "pinyin": "直",
+    "english": "zhí"
+  },
+  {
+    "hanzi": "907",
+    "pinyin": "直播",
+    "english": "zhíbō"
+  },
+  {
+    "hanzi": "908",
+    "pinyin": "直到",
+    "english": "zhí dào"
+  },
+  {
+    "hanzi": "909",
+    "pinyin": "值",
+    "english": "zhí"
+  },
+  {
+    "hanzi": "910",
+    "pinyin": "值得",
+    "english": "zhíde"
+  },
+  {
+    "hanzi": "911",
+    "pinyin": "职工",
+    "english": "zhí gōng"
+  },
+  {
+    "hanzi": "912",
+    "pinyin": "职业",
+    "english": "zhíyè"
+  },
+  {
+    "hanzi": "913",
+    "pinyin": "只好",
+    "english": "zhǐhǎo"
+  },
+  {
+    "hanzi": "914",
+    "pinyin": "只是",
+    "english": "zhǐ shì"
+  },
+  {
+    "hanzi": "915",
+    "pinyin": "只有",
+    "english": "zhǐ yǒu"
+  },
+  {
+    "hanzi": "916",
+    "pinyin": "指",
+    "english": "zhǐ"
+  },
+  {
+    "hanzi": "917",
+    "pinyin": "指出",
+    "english": "zhǐ chū"
+  },
+  {
+    "hanzi": "918",
+    "pinyin": "指导",
+    "english": "zhǐdǎo"
+  },
+  {
+    "hanzi": "919",
+    "pinyin": "至今",
+    "english": "zhìjīn"
+  },
+  {
+    "hanzi": "920",
+    "pinyin": "至少",
+    "english": "zhìshǎo"
+  },
+  {
+    "hanzi": "921",
+    "pinyin": "志愿",
+    "english": "zhì yuàn"
+  },
+  {
+    "hanzi": "922",
+    "pinyin": "志愿者",
+    "english": "zhìyuànzhě"
+  },
+  {
+    "hanzi": "923",
+    "pinyin": "制定",
+    "english": "zhìdìng"
+  },
+  {
+    "hanzi": "924",
+    "pinyin": "制度",
+    "english": "zhìdù"
+  },
+  {
+    "hanzi": "925",
+    "pinyin": "制造",
+    "english": "zhìzào"
+  },
+  {
+    "hanzi": "926",
+    "pinyin": "制作",
+    "english": "zhìzuò"
+  },
+  {
+    "hanzi": "927",
+    "pinyin": "中部",
+    "english": "zhōng bù"
+  },
+  {
+    "hanzi": "928",
+    "pinyin": "中华民族",
+    "english": "zhōng huá mín zú"
+  },
+  {
+    "hanzi": "929",
+    "pinyin": "终于",
+    "english": "zhōngyú"
+  },
+  {
+    "hanzi": "930",
+    "pinyin": "钟",
+    "english": "zhōng"
+  },
+  {
+    "hanzi": "931",
+    "pinyin": "种",
+    "english": "zhǒng"
+  },
+  {
+    "hanzi": "932",
+    "pinyin": "种子",
+    "english": "zhǒngzi"
+  },
+  {
+    "hanzi": "933",
+    "pinyin": "重大",
+    "english": "zhòngdà"
+  },
+  {
+    "hanzi": "934",
+    "pinyin": "周围",
+    "english": "zhōuwéi"
+  },
+  {
+    "hanzi": "935",
+    "pinyin": "猪",
+    "english": "zhū"
+  },
+  {
+    "hanzi": "936",
+    "pinyin": "主持",
+    "english": "zhǔchí"
+  },
+  {
+    "hanzi": "937",
+    "pinyin": "主动",
+    "english": "zhǔdòng"
+  },
+  {
+    "hanzi": "938",
+    "pinyin": "主任",
+    "english": "zhǔrèn"
+  },
+  {
+    "hanzi": "939",
+    "pinyin": "主意",
+    "english": "zhǔyi"
+  },
+  {
+    "hanzi": "940",
+    "pinyin": "主张",
+    "english": "zhǔzhāng"
+  },
+  {
+    "hanzi": "941",
+    "pinyin": "注意",
+    "english": "zhùyì"
+  },
+  {
+    "hanzi": "942",
+    "pinyin": "祝",
+    "english": "zhù"
+  },
+  {
+    "hanzi": "943",
+    "pinyin": "抓",
+    "english": "zhuā"
+  },
+  {
+    "hanzi": "944",
+    "pinyin": "抓住",
+    "english": "zhuā zhù"
+  },
+  {
+    "hanzi": "945",
+    "pinyin": "专家",
+    "english": "zhuānjiā"
+  },
+  {
+    "hanzi": "946",
+    "pinyin": "专门",
+    "english": "zhuānmén"
+  },
+  {
+    "hanzi": "947",
+    "pinyin": "专题",
+    "english": "zhuāntí"
+  },
+  {
+    "hanzi": "948",
+    "pinyin": "专业",
+    "english": "zhuānyè"
+  },
+  {
+    "hanzi": "949",
+    "pinyin": "转",
+    "english": "zhuàn"
+  },
+  {
+    "hanzi": "950",
+    "pinyin": "转变",
+    "english": "zhuǎnbiàn"
+  },
+  {
+    "hanzi": "951",
+    "pinyin": "状况",
+    "english": "zhuàngkuàng"
+  },
+  {
+    "hanzi": "952",
+    "pinyin": "状态",
+    "english": "zhuàngtài"
+  },
+  {
+    "hanzi": "953",
+    "pinyin": "追",
+    "english": "zhuī"
+  },
+  {
+    "hanzi": "954",
+    "pinyin": "准",
+    "english": "zhǔn"
+  },
+  {
+    "hanzi": "955",
+    "pinyin": "资格",
+    "english": "zīgé"
+  },
+  {
+    "hanzi": "956",
+    "pinyin": "资金",
+    "english": "zījīn"
+  },
+  {
+    "hanzi": "957",
+    "pinyin": "子女",
+    "english": "zǐ nǚ"
+  },
+  {
+    "hanzi": "958",
+    "pinyin": "自从",
+    "english": "zìcóng"
+  },
+  {
+    "hanzi": "959",
+    "pinyin": "自动",
+    "english": "zìdòng"
+  },
+  {
+    "hanzi": "960",
+    "pinyin": "自觉",
+    "english": "zìjué"
+  },
+  {
+    "hanzi": "961",
+    "pinyin": "自然",
+    "english": "zìrán"
+  },
+  {
+    "hanzi": "962",
+    "pinyin": "自身",
+    "english": "zì shēn"
+  },
+  {
+    "hanzi": "963",
+    "pinyin": "自主",
+    "english": "zìzhǔ"
+  },
+  {
+    "hanzi": "964",
+    "pinyin": "总",
+    "english": "zǒng"
+  },
+  {
+    "hanzi": "965",
+    "pinyin": "总结",
+    "english": "zǒngjié"
+  },
+  {
+    "hanzi": "966",
+    "pinyin": "总是",
+    "english": "zǒngshì"
+  },
+  {
+    "hanzi": "967",
+    "pinyin": "足够",
+    "english": "zú gòu"
+  },
+  {
+    "hanzi": "968",
+    "pinyin": "足球",
+    "english": "zú qiú"
+  },
+  {
+    "hanzi": "969",
+    "pinyin": "组合",
+    "english": "zǔhé"
+  },
+  {
+    "hanzi": "970",
+    "pinyin": "左右",
+    "english": "zuǒyòu"
+  },
+  {
+    "hanzi": "971",
+    "pinyin": "作品",
+    "english": "zuòpǐn"
+  },
+  {
+    "hanzi": "972",
+    "pinyin": "作者",
+    "english": "zuòzhě"
+  },
+  {
+    "hanzi": "973",
+    "pinyin": "做客",
+    "english": "zuò kè"
+  }
+]
